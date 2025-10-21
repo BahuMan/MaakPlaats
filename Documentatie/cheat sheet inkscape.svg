@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.5"
-     inkscape:cx="1528"
-     inkscape:cy="312"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1312.3902"
+     inkscape:cy="646.2956"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
@@ -59,7 +59,23 @@
        id="page87"
        margin="0"
        bleed="0" /></sodipodi:namedview><defs
-     id="defs1"><rect
+     id="defs1"><marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"><path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path41" /></marker><rect
        x="898"
        y="370"
        width="570"
@@ -471,7 +487,12 @@
        y="132.86092"
        width="512.29862"
        height="211.50368"
-       id="rect247" /></defs><g
+       id="rect247" /><rect
+       x="465.69809"
+       y="132.86092"
+       width="305.44315"
+       height="135.60033"
+       id="rect38" /></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"><g
@@ -496,11 +517,11 @@
        inkscape:label="Cheat Sheet Inkscape"><tspan
          x="55.205078"
          y="88.014977"
-         id="tspan3"><tspan
+         id="tspan35"><tspan
            style="font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans'"
-           id="tspan1">Cheat Sheet Inkscape</tspan><tspan
+           id="tspan33">Cheat Sheet Inkscape</tspan><tspan
            style="font-size:26.6667px;baseline-shift:super"
-           id="tspan2">tm</tspan></tspan></text><g
+           id="tspan34">tm</tspan></tspan></text><g
        id="g5"
        inkscape:label="Chapter Werkblad grootte"
        transform="translate(0,-3.3313201)"><text
@@ -513,7 +534,7 @@
          inkscape:label="Werkblad grootte"><tspan
            x="141.08008"
            y="143.30621"
-           id="tspan5">Werkblad grootte</tspan></text><g
+           id="tspan36">Werkblad grootte</tspan></text><g
          id="g4"
          inkscape:label="number 1"
          transform="translate(0,-0.91947661)"><circle
@@ -541,11 +562,11 @@
          y="0"><tspan
            x="625.10547"
            y="138.76736"
-           id="tspan6">CTRL+D
+           id="tspan37">CTRL+D
 </tspan><tspan
            x="423.77475"
            y="158.76736"
-           id="tspan7">Bestand -&gt; Document Eigenschappen</tspan></text><text
+           id="tspan40">Bestand -&gt; Document Eigenschappen</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,13.179034)"
          id="text7"
@@ -553,11 +574,11 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan8">Kies een bestaand formaat zoals A4,
+           id="tspan41">Kies een bestaand formaat zoals A4,
 </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan10">of stel in op mm/cm
+           id="tspan42">of stel in op mm/cm
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,32.931461)"
@@ -568,7 +589,7 @@
          y="0"><tspan
            x="561.45444"
            y="138.76736"
-           id="tspan11">CTRL+muiswieltje</tspan></text><text
+           id="tspan43">CTRL+muiswieltje</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,30.527301)"
          id="text111"
@@ -576,7 +597,7 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan12">zoom in/uit
+           id="tspan44">zoom in/uit
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,44.296277)"
@@ -587,7 +608,7 @@
          y="0"><tspan
            x="480.22266"
            y="138.76736"
-           id="tspan13">middenste muisknop + slepen</tspan></text><text
+           id="tspan45">middenste muisknop + slepen</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,41.892117)"
          id="text113"
@@ -595,7 +616,7 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan14">navigeer door werkblad</tspan></text><path
+           id="tspan47">navigeer door werkblad</tspan></text><path
          style="fill:none;stroke:#000000;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          d="m 23.198995,63.190574 v 14.544768 l 3.461141,-2.899876 2.245593,5.200991 2.745052,-1.190625 -2.513542,-5.22552 4.795573,-0.363803 z"
          id="path5"
@@ -616,7 +637,7 @@
            inkscape:label="Werkblad grootte"><tspan
              x="141.08008"
              y="143.30621"
-             id="tspan15">Trace Bitmap</tspan></text><g
+             id="tspan48">Trace Bitmap</tspan></text><g
            id="g88"
            inkscape:label="number 1"
            transform="translate(0,-0.91947661)"><circle
@@ -644,23 +665,23 @@
            y="0"><tspan
              x="328.94954"
              y="141.23578"
-             id="tspan18">1
+             id="tspan49">1
 </tspan><tspan
              x="327.09472"
              y="164.56916"
-             id="tspan20">2
+             id="tspan50">2
 </tspan><tspan
              x="326.74381"
              y="187.90253"
-             id="tspan22">3
+             id="tspan51">3
 </tspan><tspan
              x="326.56607"
              y="211.2359"
-             id="tspan23">4
+             id="tspan52">4
 </tspan><tspan
              x="326.94888"
              y="234.56928"
-             id="tspan24">5</tspan></text><g
+             id="tspan53">5</tspan></text><g
            id="g117"
            inkscape:label="number 7"
            transform="matrix(0.44643828,0,0,0.44643828,129.51539,59.267546)"><circle
@@ -686,25 +707,25 @@
            inkscape:label="uitleg"><tspan
              x="465.69727"
              y="150.14008"
-             id="tspan26">Importeer <tspan
+             id="tspan55">Importeer <tspan
    style="font-weight:bold"
-   id="tspan25">lijntekening</tspan> bitmap
+   id="tspan54">lijntekening</tspan> bitmap
 </tspan><tspan
              x="465.69727"
              y="173.47345"
-             id="tspan27">rechts-klik &quot;trace bitmap&quot;
+             id="tspan56">rechts-klik &quot;trace bitmap&quot;
 </tspan><tspan
              x="465.69727"
              y="196.80683"
-             id="tspan28">single scan
+             id="tspan57">single scan
 </tspan><tspan
              x="465.69727"
              y="220.1402"
-             id="tspan30">detection-mode = &quot;centerline tracing&quot;
+             id="tspan58">detection-mode = &quot;centerline tracing&quot;
 </tspan><tspan
              x="465.69727"
              y="243.47357"
-             id="tspan130">corrigeer met node tool</tspan></text><g
+             id="tspan59">corrigeer met node tool</tspan></text><g
            id="g116"
            inkscape:label="arrows n screenshot"
            transform="translate(0.280633,-53.366425)"><image
@@ -783,9 +804,9 @@
              id="text136"><tspan
                x="18.366388"
                y="39.460098"
-               id="tspan132"><tspan
+               id="tspan61"><tspan
                  style="stroke-width:0.6"
-                 id="tspan131">3</tspan></tspan></text></g><text
+                 id="tspan60">3</tspan></tspan></text></g><text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,-38.581228,96.13863)"
            id="text128"
@@ -795,27 +816,27 @@
            y="0"><tspan
              x="328.94954"
              y="141.23578"
-             id="tspan133">1
+             id="tspan62">1
 </tspan><tspan
              x="327.09472"
              y="164.56916"
-             id="tspan135">2
+             id="tspan63">2
 </tspan><tspan
              x="326.74381"
              y="187.90253"
-             id="tspan136">3
+             id="tspan64">3
 </tspan><tspan
              x="326.56607"
              y="211.2359"
-             id="tspan137">4
+             id="tspan65">4
 </tspan><tspan
              x="326.94888"
              y="234.56928"
-             id="tspan138">5
+             id="tspan66">5
 </tspan><tspan
              x="326.88052"
              y="257.90265"
-             id="tspan139">6</tspan></text><text
+             id="tspan67">6</tspan></text><text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,-66.156213,93.75859)"
            id="text133"
@@ -823,29 +844,29 @@
            inkscape:label="uitleg"><tspan
              x="465.69727"
              y="150.14008"
-             id="tspan141">Importeer <tspan
+             id="tspan69">Importeer <tspan
    style="font-weight:bold"
-   id="tspan140">silhouette</tspan> bitmap
+   id="tspan68">silhouette</tspan> bitmap
 </tspan><tspan
              x="465.69727"
              y="173.47345"
-             id="tspan142">rechts-klik &quot;trace bitmap&quot;
+             id="tspan70">rechts-klik &quot;trace bitmap&quot;
 </tspan><tspan
              x="465.69727"
              y="196.80683"
-             id="tspan143">single scan
+             id="tspan71">single scan
 </tspan><tspan
              x="465.69727"
              y="220.1402"
-             id="tspan144">detection-mode = &quot;brightness cutoff&quot;
+             id="tspan72">detection-mode = &quot;brightness cutoff&quot;
 </tspan><tspan
              x="465.69727"
              y="243.47357"
-             id="tspan145">versleep &quot;Threshold&quot; &amp; Apply
+             id="tspan73">versleep &quot;Threshold&quot; &amp; Apply
 </tspan><tspan
              x="465.69727"
              y="266.80695"
-             id="tspan146">Zie       om vulling te verwijderen en lijnkleur in te stellen</tspan></text></g><g
+             id="tspan74">Zie       om vulling te verwijderen en lijnkleur in te stellen</tspan></text></g><g
          id="g247"
          inkscape:label="omranding"><path
            style="display:inline;fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
@@ -866,23 +887,23 @@
            y="0"><tspan
              x="328.94954"
              y="141.23578"
-             id="tspan147">1
+             id="tspan75">1
 </tspan><tspan
              x="327.09472"
              y="164.56916"
-             id="tspan148">2
+             id="tspan76">2
 </tspan><tspan
              x="326.74381"
              y="187.90253"
-             id="tspan149">3
+             id="tspan77">3
 </tspan><tspan
              x="326.56607"
              y="211.2359"
-             id="tspan150">4
+             id="tspan78">4
 </tspan><tspan
              x="326.94888"
              y="234.56928"
-             id="tspan151">5</tspan></text><text
+             id="tspan79">5</tspan></text><text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,-66.289536,147.58341)"
            id="text246"
@@ -890,39 +911,34 @@
            inkscape:label="uitleg"><tspan
              x="465.69727"
              y="150.14008"
-             id="tspan152">Dupliceer je lijntekening
+             id="tspan80">Dupliceer je lijntekening
 </tspan><tspan
              x="465.69727"
              y="173.47345"
-             id="tspan153">Path -&gt; Outset creert een groter object met kleine gaatjes
+             id="tspan81">Path -&gt; Outset creert een groter object met kleine gaatjes
 </tspan><tspan
              x="465.69727"
              y="196.80683"
-             id="tspan154">CTRL+SHIFT+K om gaatjes los te maken van de figuur
+             id="tspan82">CTRL+SHIFT+K om gaatjes los te maken van de figuur
 </tspan><tspan
              x="465.69727"
              y="220.1402"
-             id="tspan155">Klik op buitenste rand; die wil je houden
+             id="tspan83">Klik op buitenste rand; die wil je houden
 </tspan><tspan
              x="465.69727"
              y="243.47357"
-             id="tspan156">In het venster &quot;Layers and Objects&quot;, delete alle andere nieuw </tspan><tspan
+             id="tspan84">In het venster &quot;Layers and Objects&quot;, delete alle andere nieuw </tspan><tspan
              x="465.69727"
              y="266.80695"
-             id="tspan157">gecreeerde objecten (de gaatjes die je hebt losgemaakt)</tspan></text><path
+             id="tspan85">gecreeerde objecten (de gaatjes die je hebt losgemaakt)</tspan></text><path
            style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
            d="m 28.699219,185.78711 c -1.789976,0.0166 -3.01634,1.54574 -3.751504,2.98825 -1.149686,0.45523 -2.643333,0.50598 -2.384273,-1.13838 -0.07034,-2.19217 -3.256572,-2.80629 -4.015775,-1.11599 -0.973828,1.60842 -2.107083,8.37821 -3.142733,9.36438 -1.491656,1.42039 -3.984822,-2.46359 -6.1061059,-0.94787 1.4953389,1.31459 3.3438049,2.21047 4.6983659,3.68033 -1.847892,-0.65752 -3.804217,-1.3603 -5.7936606,-1.24044 0.163473,0.53237 2.4167676,1.50663 0.6255074,1.19115 -0.8541098,-0.0377 -3.0107114,0.38558 -1.1510861,0.89689 0.5633433,0.3819 3.3531673,0.54913 1.2433604,0.64742 -0.5851816,-0.054 -1.1854397,0.95286 -0.5421445,1.46388 -0.877205,0.16204 -0.8439466,1.42605 -0.6749596,1.47012 1.618414,-0.38948 3.418061,-1.15918 4.979161,-1.11262 -1.074914,0.40226 -3.4257174,1.82557 -2.9670672,2.4594 1.8794162,0.0939 3.9831312,-2.0535 5.4126862,-1.51766 0.447572,1.70626 3.393071,1.39207 2.857249,3.45223 0.436926,0.86617 -0.770309,2.28976 -0.169767,3.06214 0.395776,0.35067 0.626551,0.0698 1.091468,0.10227 1.272753,1.2666 0.105496,3.5066 1.046976,5.01506 0.492614,1.02985 1.65201,1.45272 2.092737,0.74566 0.258202,0.23691 0.563238,1.62324 -0.692577,1.4962 1.955492,0.86459 -1.633638,0.76563 -2.293024,1.02783 -1.200886,0.38125 -4.164868,0.11691 -4.275043,1.35622 1.632487,0.50833 3.315059,-0.16423 4.984468,-0.0474 6.395474,-0.18433 12.959383,0.84456 19.213595,-0.92409 2.019912,-0.5975 3.964766,-2.17062 4.120229,-4.41148 0.476018,-1.87885 0.910672,-3.77851 0.9956,-5.70805 -0.283474,-1.36652 -0.355214,-3.01943 -1.102573,-4.09622 -0.754574,-1.07859 -1.549379,-3.06015 -2.152141,-3.85635 -0.602761,-0.7962 -0.906336,-2.25533 -1.87943,-2.9042 -1.54357,-0.72437 -3.091441,-1.78316 -4.196648,-3.09032 -1.189285,-0.65647 -2.289249,-1.25236 -1.378961,-2.71032 0.369842,-2.70833 -1.749057,-5.84777 -4.69193,-5.59808 z"
            id="path247"
-           sodipodi:nodetypes="scccscccccccccccccccccccccccczcccss" /><text
-           xml:space="preserve"
-           transform="matrix(0.25029106,-0.08578299,0.08578299,0.25029106,14.86468,35.559773)"
-           id="text699"
-           style="font-size:48px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect699);fill:none;stroke:#000000;stroke-width:0.755906;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"><tspan
-             x="898"
-             y="414.43099"
-             id="tspan159"><tspan
-               style="font-weight:800;-inkscape-font-specification:'Adwaita Sans Ultra-Bold';fill:#ff0000;stroke:none"
-               id="tspan158">TODO: kleurmodel</tspan></tspan></text></g></g><g
+           sodipodi:nodetypes="scccscccccccccccccccccccccccczcccss" /><path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+           d="M 320.80729,-18.955015 C 305.06458,-20.410223 317.5,-2.68314 320.14583,3.1376932"
+           id="path40"
+           sodipodi:nodetypes="cc" /></g></g><g
        id="g11"
        inkscape:label="Chapter Tekst"
        transform="translate(437.38793,-23.815189)"><text
@@ -935,7 +951,7 @@
          inkscape:label="Werkblad grootte"><tspan
            x="141.08008"
            y="143.30621"
-           id="tspan160">Tekst</tspan></text><g
+           id="tspan86">Tekst</tspan></text><g
          id="g9"
          inkscape:label="number 1"
          transform="translate(0,-0.91947661)"><circle
@@ -963,11 +979,11 @@
          y="0"><tspan
            x="661.83984"
            y="138.76736"
-           id="tspan161">&quot;T&quot;
+           id="tspan87">&quot;T&quot;
 </tspan><tspan
            x="580.80597"
            y="158.76736"
-           id="tspan162">Klik op text tool</tspan></text><text
+           id="tspan89">Klik op text tool</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,0)"
          id="text11"
@@ -975,22 +991,22 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan163">sleep een rechthoek die groot genoeg is
+           id="tspan90">sleep een rechthoek die groot genoeg is
 </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan164">type je tekst
+           id="tspan91">type je tekst
 </tspan><tspan
            x="465.69727"
            y="196.80683"
-           id="tspan165">kies lettertype bovenaan
+           id="tspan92">kies lettertype bovenaan
 </tspan><tspan
            x="465.69727"
            y="220.1402"
-           id="tspan166">gebruik altijd tekst tool om je rechthoek te </tspan><tspan
+           id="tspan93">gebruik altijd tekst tool om je rechthoek te </tspan><tspan
            x="465.69727"
            y="243.47357"
-           id="tspan167">vegroten/verkleinen</tspan></text><text
+           id="tspan94">vegroten/verkleinen</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.47078356,0,0,0.13039721,-55.1604,23.800458)"
          id="text13"
@@ -998,7 +1014,7 @@
          inkscape:label="resultaat"><tspan
            x="342.42578"
            y="365.18305"
-           id="tspan168">of je krijgt zo'n resultaat</tspan></text></g><g
+           id="tspan95">of je krijgt zo'n resultaat</tspan></text></g><g
        id="g18"
        inkscape:label="Chapter Kleuren"
        transform="translate(216.95833,-13.01903)"><text
@@ -1011,7 +1027,7 @@
          inkscape:label="Werkblad grootte"><tspan
            x="141.08008"
            y="143.30621"
-           id="tspan169">Kleuren</tspan></text><g
+           id="tspan96">Kleuren</tspan></text><g
          id="g16"
          inkscape:label="number 1"
          transform="translate(0,-0.91947661)"><circle
@@ -1039,11 +1055,11 @@
          y="0"><tspan
            x="576.05078"
            y="138.76736"
-           id="tspan170">SHIFT+CTRL+F
+           id="tspan97">SHIFT+CTRL+F
 </tspan><tspan
            x="529.0065"
            y="158.76736"
-           id="tspan171">Object-&gt;Fill and Stroke</tspan></text><text
+           id="tspan98">Object-&gt;Fill and Stroke</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,6.1501294)"
          id="text18"
@@ -1051,22 +1067,23 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan172">Kies 
+           id="tspan99">Kies 
 </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan173">* vulling kleur (niet voor lasercutter)
+           id="tspan100">* vulling kleur (niet voor lasercutter)
 </tspan><tspan
            x="465.69727"
            y="196.80683"
-           id="tspan174">* lijnen kleur
+           id="tspan101">* lijnen kleur
 </tspan><tspan
            x="465.69727"
            y="220.1402"
-           id="tspan175">* lijn dikte</tspan></text><g
+           id="tspan102">* lijn dikte is onbelangrijk voor laser</tspan></text><g
          id="g261"
          inkscape:label="laser"
-         transform="translate(7.2964581,-193.91615)"><path
+         transform="translate(12.347852,-139.84752)"
+         style="display:none"><path
            style="fill:none;stroke:#060606"
            d="m 24.473959,260.00623 c 0.71923,-0.13949 1.834661,-0.0531 2.608036,-0.0531 h 5.102678 c 0.364601,0 0.782405,-0.0136 1.133929,0.0328 0.230196,0.0304 0.448984,0.0588 0.678256,0.16029 0.789407,0.34955 0.79561,1.32568 0.795851,2.07476 9.5e-5,0.29626 0.01374,0.62246 -0.02091,0.90714 -0.02846,0.23382 -0.07451,0.44356 -0.183651,0.67861 -0.147885,0.3185 -0.359711,0.53893 -0.703104,0.68105 -0.532794,0.22051 -0.671853,0.15798 -1.133405,0.21261 -0.24618,0.0292 -0.432329,0.0186 -0.566964,0.0176 -0.349818,-0.003 -0.579565,-0.002 -1.133928,-0.002 -1.016607,0 -2.044011,0 -3.061608,0 -0.453919,0 -1.036706,-3e-5 -1.474107,0 -0.480551,3e-5 -0.897733,0.0469 -1.360714,-0.003 -0.415942,-0.0453 -0.726695,-0.0352 -1.133491,-0.2435 -0.296934,-0.15204 -0.511106,-0.37661 -0.662158,-0.66058 -0.138117,-0.25966 -0.176272,-0.51789 -0.212612,-0.79331 -0.04957,-0.37566 -0.0509,-0.86299 -0.01356,-1.24733 0.08818,-0.90757 0.398563,-1.57831 1.341465,-1.76117 m 0.79375,4.82278 c 0.01372,0.31957 0.03843,0.55088 0.115056,1.02054 0.09085,0.55682 0.506855,1.57354 0.713605,2.15446 0.605196,1.70046 1.194864,3.41258 1.827496,5.10268 0.180168,0.48132 0.242097,0.74392 0.463283,0.97259 0.09913,0.10248 0.296418,0.27715 0.622086,0.25365 0.586849,-0.0424 0.649833,-0.38582 0.872584,-0.99945 0.630816,-1.73778 1.304474,-3.57817 1.927765,-5.32947 0.205936,-0.57863 0.626745,-1.61304 0.751665,-2.15446 0.102233,-0.4431 0.118895,-0.67186 0.190388,-0.90715 m -3.741964,9.525 v 1.13393 2.38125 5.89643 m -3.855357,-4.7625 1.247322,1.92768 m 6.463392,-1.92768 -1.247321,1.92768 m -8.844643,0.79375 2.041072,0.79375 m 8.391071,0 2.041071,-0.79375 m -18.709821,3.175 h 6.35 c 0.91406,0 2.108033,-0.0949 2.948214,0.0214 0.459607,0.0636 0.684866,0.23988 1.020449,0.55175 0.334237,0.31061 0.951436,1.0551 1.251871,1.34951 0.223884,0.2194 0.522516,0.51941 0.90268,0.50135 0.395268,-0.0188 0.582978,-0.20493 0.887894,-0.50826 0.685031,-0.68148 1.11079,-1.68198 2.06032,-1.87676 0.774457,-0.15886 1.951776,-0.039 2.834822,-0.039 h 6.576785"
            id="path257"
@@ -1112,10 +1129,61 @@
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
            d="m 98.982381,278.52334 c -32.244095,0 -35.899386,2.77728 -40.613541,5.55625 h 10.847917 v -3.96874"
            id="path261"
-           sodipodi:nodetypes="cc" /></g></g><g
+           sodipodi:nodetypes="cc" /></g><g
+         id="g40"
+         inkscape:label="kleuren"
+         transform="translate(0,11.641667)"><image
+           width="71.068489"
+           height="40.254662"
+           preserveAspectRatio="none"
+           xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAh4AAAEzCAYAAAB+GQo/AABMaUlEQVR4nO3dB2ATZQMG4DdJ9560&#10;ZXWy95QlqAyRISLw4wKcICLKUhQFGeJChghuURkuQJCpIqCA7ILsYaGUTfdeWf9916Z0JOlOW/I+&#10;/vlzvbvcl1xK7823YpOQmKQHERERkQXYgIiIiMhCGDyIiIjIYhg8iIiIyGKUqGJpaWmgilPV55Pv&#10;JxERmVPlwSMxMRF3kps3b6IqVfX5rOryq/r8ExGReVUePOLj43EniY6JRVWq6vNZ1eVX9fknIiLz&#10;qryPR7ZajTuJWp2NqlTV57Oqy6/q809EROaxcykRERFZDIMHERERFUupVMJGpYJCqUCp6aX/6fXQ&#10;aLUMHkRERGSejY0NVKpydAuVsopCoYCt0qbmBI/2HTvBwcG+xPvv2fU3qGTC047i2chx8vLoWk9h&#10;bK3nQEREJKikmo5yhY5CakzwEKGjLGHi6NGjaNKkifR4B5Bx7ZzbYEbtqZh85XW8fe19NHVogh5u&#10;3VDZ6hwNw7U2EfKyCJamHD64H0REVDVUUvNKRSp18HjvVDbeP2l+5MJrzewwtbktqpJoS/rks8/w&#10;/fc/4ecfV6FOnTqobsSFtywMF+vyStGmwFXlKi8P9hqElXE/YX/qQexPO2iR4EFERNWfaCKpSKUK&#10;HjUldGRnZWHW23Px++9/YPr0N6pl6DAobYgoa1gx5tUrb6CNc2uM9n0aGxO34kDqIXm9suqndyEi&#10;ompCL/cMRYUpcfCoKaEjNjYGkya/itNnzuCxRx/FoIEDS/S4L778Cv7+fujdqxccHR3ldZmZmdj2&#10;53bcuHEDo597FpYWmRWFP5L+RB/3Xgi2D0RFc1W6YtbVd/Bz3Fqcy/gv55dLsuTWZ/C08cCzvk/C&#10;UticQkRkHUocPESoELfq7Pz5/zBx8mTcuhWNjh3a4+WXXizxY708PXHz5i1s2bIV/fo9IFctbZaW&#10;4+Li4OHugarwxIWncCnrMlbG/oDdTf9ERRtT6xlsSvwNZzLOFViv0Wvw1tW3cSz9BObVnwsHBfvH&#10;EBHRbUuWfgofH288OHAAnJycjO6Tnp6ODRs3SRUCcXhx3Ni89XfMcNrtO3birZkzpVqKLAT4+2Pu&#10;23NK1SHmgQf6YuOmzYiLj5fDhyCWXV1dpG33oyooULHtaoWFOoRgX7Md2JOyH05KB4Q5hGFC1Cty&#10;Pw/hl/hfcV6qCfk65DOk6VIRrY5FS6dmcFe5o6KZ61yaH2tGiIiqnggdIlCsW78Bgx96sEj4EKFD&#10;bEtISICPr0+BbWUOHlOXbcTq41fM7vO/lvXw3tMla+ooj6+//gafffGF3KFUjF6ZP/9DeEo1GKXh&#10;7OyMgQP654UPwcXFGf379ZPChyss5WLWJYTYB8nLK0KXYVvydvRx64XKIkJEf4/bweqnsOWYff1d&#10;fB39nfzzyYzT6Ha6J9T6nGY2Z6UTVoYtQ0fn9iAiIus06MGBUrD4FfHxCfhl3a9y+BDXUSE9PQPr&#10;f80JHZ6eHhjYv1+Bx5apF2F1Ch06nQ6+tXzlphFxmzH9TTRsULYOmEqlCrY2t7OYSkx0YmO5SiER&#10;OvqdG4wLmRfln0W/DtHxM8i+PizFRmGD2XWmY2Hg+7BX5jStGUJHbdsAqeYjHe9dmw8iIrJeoi/k&#10;4IcGwcvLU/5WclG7kZaWlhs6cgKJCB0PDbodSAxKfVWtTqHj0qVLeO/9eVi0cL7cMfLq1avo07ts&#10;tQPpGRnYLNV2JEgn0NCnIzEpEZs2bcGAgf3hlNvhtDK9fmW6PMR1qnS/usHKSm1qKW7ejP95DZFq&#10;N1wwOndisUe8h2Fevblyn5CFNz9GRWMTChFRzSLChwgWhiaV9b9ulNfn1HR4Gm2CEUodPN6XAsX7&#10;qB5WrPweh8PDMeWVVzH/ww9gb1/2TpBbf/s9L3SIoCFs2rhZDh9bt/6GIQ8PRmVaE78Oe1L2ycv7&#10;Ug9gXfwGPOw1CFXJTpnz6+GodMDbdd+CUqHEg5790N21C4iIiESwEDUfhloOwcND1HQMNNnptMZ1&#10;LhUDPnfd0qKeswLDh/8P169fw8MPPwxb2/KNuImLjYW3t7fcydRQuyECiAgdYmRLZYvTxGGc3+i8&#10;n2M0MahqTRyaQKVQIVOXhW9ilmOs33NyLYyHTcWP8jFVA8OaECKiqiX6T5rj6Ogg13yIfh06nT6v&#10;psPU48odPMT8F+JmjpgDo7zzYBimS595LBuLz6rhY6/Abz1D8OknS1ERjD0/EUAqu6bDYEwty88T&#10;Upy6drXxbr3ZmHPtPcy9/oHcnDXObwyIiIjyE80uosOpYKqmw6BcwcNSocNgw1WtHDqENI0eDqrK&#10;HW5qCRU5E2lleNx7OIZ6Dka2PitvenUiIqLCigscBmUOHpYOHYfjdJhwKEtebuimxLx29qjjVLOD&#10;R0V950plE6Nb7FHxk8flf/1sUiEiqp6Ka2oprTIHj4oMFSVR1xnYeJ8Dajsq4GlX82s6iIiIagSR&#10;OyrwsltjOpf6OyilG6iCsIaBiIhKQtR4VOQ31PJrSImIiMgktVqNinTHfFcLERERVTytTgetRgul&#10;qmLqKljjQURERCbZ2toiLT0d2VnZ0Ov0OX0+Sks8THqsOEa1qPF4cEcmarIN97HzCRER3bnEUNns&#10;7GxkpKRAq9WiLJRKJezt7dnUQkRERMWzs7OTb+XF4EFEREQWU+XBw9HB8Y5qqhCvh+Vbb/lERGRe&#10;lQcPLy8v3Emq+vWw/Dvr94mI6E6jSEhM0ocfOQIiIiKiyiYHDxARERFZQF5Ti06nQ0xMLJKSkso8&#10;VKaqiCE6f2TXwT/xKqTXrKdulVxtgXbuOtxvfx1KnQZUPdna2sDZ2QV+frXkf2NERBUh769JbGws&#10;4uPja1zoELQ2ttgWw9BRU6Sogb9ilbCx4cWsOlOrNUhMTJT/NhARVZS8v/zJycmoqbQZ6aCaJzM9&#10;DVT9JSYmgYioouQ1tYhPNzVVdnYWZw+tgcKPqGEn1VZR9VYTa0GJqPriBGJERERkMQweREREZDEM&#10;HkRERGQxDB5ERERkMSUKHiNGPYnyWPHdt6gO2nfshPI4fHA/qPp5JdIHU+slwMeGnSCJiKo7TqRA&#10;Nd4/KY54/Jw/tiY4g4iIqjerbGopbc1FeWtKqPKlaJWYc8UL/yQ7YErdBHiodCAiouqHfTyo2upy&#10;vB5Ka0eSE46k5oSP+9w5sRwRUXVT/ZpatJFYM30KvjqaKS///PoL+DRcU3DZmmjPYOn/+uKtPdmo&#10;MtrT+PSJwZi9u2ZcyBUKPRRV9dWH8u/peHz+bzX5PbXWfzdEVG1VUY1HOvYsehmfH1XnW6eAa49J&#10;WPxUA3Qa+hjUIfao/nSIPbQcCz7dgP3no5GucoFfUCsMmTILI1s4IOv8n/hL1xX3N3ZEjaYMwv1j&#10;JyCzacleR0W97r0tr5Rov/w1I6KWw3RTiw6Jpzdj1ZpdOHk5HhlKJ3jXboD7nnge/cPskH35AMJ1&#10;rdA5qHrPgltTnicRkTFV2NSiRL2HZmHWg3Vzq10UUCgVUCoUqNuqbc4u1XyQgj5uK+a+tgaK0e/j&#10;pyWhcEyPQdS5KKCunbQ1FftWLcbGVm3QR7oAK1CDKZwQ0rVHCXeumtctgkZxzSv6pL1Y9vF2KAaP&#10;xzuv1oN9ZgJuRN0Aaolp2zNwYutP2N2wMTpJF/Tq+37VlOdJRGRclfbxUCiUUKpUUOVfKaqG35yH&#10;uKGLMbY1qjVdwg3c1ITif72bwtdJugQ41UMzH+nTtz4R/yyajHe3xyJ171N48Ds7NBz1EeYNSsan&#10;IxbAcdIoZH63ED8fU2Hwku8xPuAovl34CX45EIVkhSuCOjyEsRNHonMtVZEysyPX4bWJP8L1xY8w&#10;o5c/FPHhWLFgKdYevo4MlReaDXgBr4/uBr/CDxVNNiPeRdYjDyB+zY/YezkFNrXbY+jLr+LZu3yk&#10;8KdD3D9f4O3Pt+FcdBoy9c4I6/0C3prYE3UgPfbRl3Bj3Ga83e2CdJz3oX70ASSs+xF7LiZC79EY&#10;97/wBib1dsHBj4y87ofrVGqbnvlajtt0ybGI1dZF77tC4OkgvV8Ofgj18JPerxQc+2EhvjmUgIzj&#10;szBpky3q95+CCT1SsXrGKtg/PgDZm7/Hn+eVuOfVuRjuexabVq3BjlM3kAZnBDTrgWGP9kcLr6Lv&#10;l/r6TixZ8Duc/vcKnu3oDUXSGWz5/mdsPx2LLJU7Qu8eiicfag3vIu9XHI7+8h1+/icSCZlqKFzq&#10;ouPQJ9A6cnnB59lvJBrtX4JDbd7C9H7+uec5A4c/m4oVDqMxb0TBkT66kpZPRFRJOJy2HFSB3dEn&#10;9Ay+mfM1dpxPQF4rusIDXV+ajZFN7NFq7DfY8OsazDdcfLWX8NMHa6EYvgDrt3yLMY2v4ftp07DF&#10;+Ql8umk7/t7yBZ73+xtvTvkWZ9UFy1Nf2YwZk1fBYcwCTJdCh0p3FWvefAObXZ7GVxt/w+8rJ6H+&#10;7tmYvvoKjF6CNZFYvy4eD85fjR07NmDJQzr88sa72BQt9lbCrX5HDH3zS6zfKh3rm1Fw2SYuxkb6&#10;lmgisPrHq+g190f8uXMrvn3GA3998Cn+TjPzuivR24FxJRrFogpoi851I7Hh619xSApeeRVqUthr&#10;9chY9A+yQ4Ohb2HB/Pcx8T7fnNoE3XVsW7EDit4T8eHimRgSHI3fln6Cfxz74fWFn+KLj97AEK8j&#10;+OSjTbhUqBuF5tYefLbwN9g9PFkOHSrdLWz/7BPscRqE6Qs/xpI5j8P/6Jf4bPutIu+X5txmfHfQ&#10;E8PnfITPpMcsfG0EejepjzaFn2fPpuh2TxPc/OcfROW+IH3Kv9hz3Amd724Mu/wHLUX5RESVpQqD&#10;hw7Xtr6Pl8e/hBfl22R8cTgTNYptQzy55HO83EwKD68MR/8Rr+OTPy8i3VzHRn02/AdMxJhugfBw&#10;cYLd1R3Yer4xHhl9H+o5Ss1Ndn7o8uwIdLi2CZtP5V7JRM1Q/N94Z9IyaJ+cj5kP1JGrqnRRf2Lj&#10;qQb43zNd5dYCpWdbDOtXH2d27MUto1cSFVoOegwdfKXLkdIFDR9+Ev3cj2DnoVSIp2xbry26NvSC&#10;nXTFtfXviLuC0xEdnY6iL8cGLR8ehW4B9lKtlQPq97oPLTTXcDmmYi9fYuI6w60k64tlUx8DXn0D&#10;j4ZI4eGj1/DyjCVYc/CaVLtj7kEaeHd7DA+3DoCrowNsbh3C3qhA9Hm4PfzspffL1gutHuqHpjG7&#10;seeCIcpI65PCsWzhr9ANmIDRXXzlWj3dzYPYfaEeeg9qBS/pDVS6NkKvrv6IPHwM8YWeg9LTDz4Z&#10;5/HPnpO4niZVzvgEoq67sX+uCri1uwft0vdj93mRVPVIDN+LM75d0C24YIVmaconIqosVdrHw//e&#10;cZj6QO28Ph62TjWhQ2lBCqdg9Hz2LfR8Oh2X9yzHO+9KTR3p32LhAFOPsEXd+v55iU8bH4sEW1/U&#10;cs/XWu/gCz+3JMTE517I9RnY/dnH0GXZoLu7CwxfJK+Ni0Zc9kl88exgfJe7Tq/JhJ1/htQEYIwN&#10;3Dycb/cLUPqglg/wb2IK9HoVIn5fjm83HcblFD1UKg3iIzUI6qc3ehwvb7fbx5Gay0RTjb4GfGxW&#10;ONRGx4dGo+OgTNz8dzO++eY9LMmYicndTT1CBT9/n7z3S5eUiBQbT3i55Hu/7Dzh7ZSKhBTDCcjC&#10;v7/8JGVMFdpI4dLwj0yXmIBE9QX8MmcKNuWu02uyYeuThQxxmvMdUhnQB5OmeuD3zRvwwavfwbvt&#10;/Rg+rDcauhp5ig5NcW9nWyzafQLDGtXHoX0XEHj3KNQRTzpfP6nSlE9EVFmqtI+HysEFbu7uhfp4&#10;oGZSOqF+92cxNnwbXjp4FpoBDXL/jhe+cEufhvP9gVd5+8JbfRi3kqSLlm/u5S0zGjeTPeHnbbjc&#10;qdDkuS8w3eNzPPvuHPwS8iGG1LOBysMbHg7t8PiKeejvVpKrhgYJsUlSRPDNuZDqYnAzBvDwdIMm&#10;/DNMmncRQz5eiNlN3aRmAakWZ8wTMD7VWsHXUHSrsdddeqam2q+QKfilmhr/Ng9hyJn9+PD0JWi6&#10;1zf9fuX7SenuCXfNacRJ4QyeuVuy4xGX7gqvvBoJJYIGv4FnXdZizrdfYUfdCejpJ4UzN3e42TdB&#10;39kvo5tzce+XAk717sLg5+/CgymR2PnNEixa6YkPxwYZeZ42CO7RHbXe/gdHLkXjwLVGuHecd5Ec&#10;UbryiYgqB/t4lIPuajh2HI7A9YR0qLVZiD+/Db/uS0Jo42DYKFzh4aHE1XMRENcovd74hVgZ2AsP&#10;tojAz1/uwvUsaR91LA5+8z0OBfTFA00NuVCqYfD1Qq17JmNm3xgsfXMZTmZIjw3phX5hJ7Hikx24&#10;lCY+beuQFXcBpy+nmLjsq3Fsw484HCdVyevTEfHLd9ia0h73dXCGJikeKS6BaBoshQ7pOCln/8CO&#10;/8qQAkv4uquCLvoMDp25gpjkTGi02Ui6fAB/H09F3aDa0mt2gqurEtGXrshNZSbfr4CO6B52FdvW&#10;H0FMtrSPJhGnNvyG095d0CXYEKFt4O7hDq92IzCmSwLWfPorLmRJj63dEV3qXcCW1YdxPUO8X3pk&#10;J11F5M2izVn6+Cj8dytdzuEqF38E13aBTq2W3hnjz1NZqzPuCY3Enz/sRUyLu9HWSBAtTflERJWF&#10;M5eWgz71P2xa9CPevhyDVLUNXP0b4q6Bb+PdRwKhVOjRY+ST+HPu2xjcB2j45MdY+oiRgyjrYsic&#10;95D90RI8/+BcpGgdENCmP2bOexJNRJtK/mu/wgVtX5iJUePGYfqCZlg2rSsee+8d6D7+HBMffhdx&#10;0sXNwTsUvV6Yhcb1XYvWnCs80a2rC36ZMBSvX02BKqAD/vfOVPSTalqUXUbhxb/fw3sjRsDF1R4e&#10;zR7E/ff5Yg9KSQoeRV7348HVIuHq069gz/e/Y9nNBKRpbODsXR/Nu7+AcX0C5Perbf+BOLjsa0x5&#10;Eag/4FVM7WPkIEo/9Bw7HuoffsK7k5YhTWcHn0bdMPrlgZC7VBR4vxzReOho9P/gfXy6KhRvPdUK&#10;fV8cB/1Pv2DBq8uQlC210rjXQ8ehYxDk71SgGF3yGfz6+QL8l6CFrZ0dXOq1x5MjOsJFoSr6PEVz&#10;pcIdHe5pip8Xn0H7wc3hZOwEKANKXD4RUWVRJCQmyR92zpw5a3Kn6v7ttOkZ6WjXtm2x+1n1t9Nq&#10;c4bE3hy3GXN62KE6CD9yBE6Opi94d8q3IluGHqn7P8GrG/zxypwhCK7g4bFNmjQGEVFFYFOLlWGV&#10;+p1JlyLVkGw6i+A+9yCIc3IQUTVWoqaWO+WTY42usbBC1lVjUUbaK9j43jxsvGKDet2exAvdvTk4&#10;hYiqtRI1tVR3JW1qoeqluKYWqj7Y1EJEFYWdS4mIiMhiGDyIiIjIYhg8iIiIyGIYPIiIiMhiGDyI&#10;iIjIYhg8iIiIyGLygseZszV3OG1gYH1QzVSTf++siRiyTkRUEfLm8RBzKnAuDCIiIqpMbGohIiIi&#10;i2HwICIiIoth8CAiIiKLKTZ4bL2mxZarWkSl6VDRbJRALQcFhgSq0Dug4FO5dvUaYuPjoM7ORmWw&#10;sbVFLV9f1K5dG0RERFXBGq91ZoPH+yeyEZMFjGtkg8YeSlQ0tZRlLiTr8GWEGrtv6TC7tZ28Xnxh&#10;nVqdDXc3d9jZ2aGi6fV66fhqxMTEICEhAc2aNQMREZElWeu1zmSa+PWKRg4dH7a3q5TQIdhKhxXH&#10;fq+tPdI0eqyXyrxy5Yr8Rvj4+FbKGyEoFAr52KIMjUaDy1cug4iIyFKs+VpnMlGIJpZnwyzTBUQE&#10;kOfCbLH9ug7x8fFwk9KfJYg3xd3dQ0qCiSAiIrIUa77WmUwW0Zl6hLpVTk2HMaKsaxk6qFVq2Ept&#10;UpYiyqqstjUiIiJjRBOItV7rTAYPjS6nJsJSRFma3P6rIp1ZiiXLIiIiMrDWax2H0xIREZHF1Kjg&#10;0Wy3G8rj1N3JKAvPn9Lke7u4S/K9TUp0zn3yzZz71Lic+6SbufvldOCxv3Vevj98cD/Kon3HTgV+&#10;1tvYQ+voBp2dE/SqnCo6hVYNZXY6VBnJUGiyCuxf1nJDxy+Gx+GfpWNrUBZlLfeuzl2h1Wrzfu7T&#10;uxfenjMb0dExePLpZxAbG5u3rV69ulj21ZdwdXXFxElTsG///go7z6VV1nILuxQVhU2bt+Dw4cOI&#10;jLwk90ivW6c2+vTpg8cfe9Si1bJEVLU2bNiA1Wt/kZfF15kMHTpE+ntQp8A+N2/exOo1a+W/GaLz&#10;6ODBD2HokCEoj+9/+AHffLscooKkc6fOeOqpUQgKDCywz9Wr16R9vsOef/6BRmoyGjHiCTw5amSJ&#10;y2CNR00g/QZoXH2hcfKCTgQPW0dAmfvW6aTgoc6EKjMZqrR4KRTFiDFUKA8ROi49vwY6B1f5Z6V0&#10;bLuYS7BLvArbuCgpaMXALlb6WVquSK9NfRVz33lXXm7dqhVmzpgOpVIJf38/LFowH8+NeR4ZGRlw&#10;d3fHooUL4OnpKe/7/nvv4NnRY1AeVRVaDPbu3YeJk6cUCF7C+f8i5Nux48ex4MN5bBoksgL/HjuG&#10;r5Z9k/fzjp07sWv3boySLvCDBg2S122WPqQs+/Zbua+IwfIVKxESEoK2bdqgLA4cPIQFCz/K+3nz&#10;li34Y9s2vDhurPTh5zF53c8/r8aixR8jO19/kSVLP0Gjhg3RuXPJ/h4yeFR30oVG7VEHGhdfaJ2l&#10;4GHvKAcPfW7wUOg0UvDIkEOCzsZBqgmxg23itXKFD1HTYQgd0oHkn5WiNkW6V+i1cpkKnRYVbfBD&#10;g+RP+nv37sX8Dz+Anb193rbGjRvhnbfnYNqb07Fw/jwE1r/9jcROTk5yMKnJWrduBRdnZyQlJ8u1&#10;OQ0bNEC29Adlz55/5JqP3bv3YP/+AyX+h01ENdfvv/9RZJ2o0fj6m2+RkJgo1X7a4aeffzb+2D/+&#10;KHPwWLduXZF1ItgsXLQYcXHx8tDcr75eZvyx69dbNnikpKTCxcW5yKcxnU6HtLR0qTrcBVQ2ck2H&#10;FDrEvdbJQwoEznIoEAFDEM0ryqxUqVYiFXqFKmedNltqBopG+eml46ZJzTiJUEi1KqJJR6GWysvO&#10;kMuoDKNGPoEGDULlWo3CunbtgmeeeRotW7Yssq1WrVqoCIZmteIkDHdGRRLhacqUyfD19UH7du3y&#10;1r/z7nv4Zd16eVnUejB4EN35zp47Z3a7Xm96JvGIiAiU1fETJ0xuE7Up5pw+cwYlVe7gIT6h9R8w&#10;EA0bNsLiRQukAJITMlJTU/HShEk4f/48tmzeCDdXV1DpiD4donlF1HSI0KF19pCX9TZ20IvmFolC&#10;1HbYOUNl6POhF7UTUtNLehLKQ5WRlFObIt3bJt6QmnISpVuKHDhEyFFmlewCXRqZmVmY/Mqr8j+c&#10;4MAgNG/RvMD2xR8vxcpVq6CSml9GPPF4gW2iZqBbt66oyR7oe3+RdUqVKm/ZwdERRHTnS0oy/ve7&#10;jVQzOmrkSPlDvqgdPnT4cJF9kpNTUFblmecjIaHk15xyD5gV1cMNpLad49KnsRdfniAHDnF78aWX&#10;5XUNpW3O0qc5Kj25I6m4ieYVqaZDbmpxdJdqP/ygdsu5aVxryftoRf8PBxe546lWqhERjy0Pu5iL&#10;sIuOgG381Zy+I6lxUhhJkAONCB2i9qOivTl9Bk6ePCUHkIlTXpE7MBmsXr1GDh3Cx0uWYtuf2/O2&#10;nTt3Hq+/8SbuNP9JAWzTps3ysujr0qNbNxDRnU+0FhRmLzU9v/DCC3ktC2OfHyPXlFZ2uZWh3MFD&#10;JX0iW/LRIvnT6ckTJzF6zFiMfXG8fAFp0rgxFi2cL+9Dpaezd5L7c8g30bwi1XRoHdyQ7VEH2V6B&#10;OTfPetI6d6kGxE7a3+X2/nbl+4W0Tbgq13SI/iK2STfkphtR0yE6ltqkxd7uQ6JUSeU659bIeKE8&#10;/vr777xl8b0CL770EuLjE/DPP3vx4YKFedvEP44Zb83E4fBwxMbGYOLkyXKn0zvJvn378exzY6QQ&#10;lin//Pzo0QgOCQYR3flcjbQQPDL8f/DL16Ts4+ODxx4ZXqLHlpS7e9k/sHp4lPyxFdLHw1mq9Vi6&#10;+COMHfciTp/OaecRNR1Ll37MJpZy0Ctt5dErepWN3KdDb+MgBQrHfB0/kRM27Bzkphe9TXpOp1Pp&#10;cYbhtmVlG385pyOpOktuclGlJ8AmJU4KHrHyOr0UOOQ+J1L5elvpeUnNQlAo4SjVjlQUUeOxcNEi&#10;7JUuwoVHe4gOT7PnzEVYaKg83PZOcuTIEUySanzEaxSh/cVxLxRpWiKiO1fdunULNLc4ODhITbF9&#10;i+x3//334/sff0J6+u0a6Hp166CsAqUmbvFhryyCg4JKvG+FzU2qL+cQTjLDcGrNDaWUz3/uTZH/&#10;QWVjmxIt13LYJt+Uh87KtR/JN+SOrHpbe2g8aku3AGT7BEk1L/WhcQ+AWrpVJF/fWhj/4ji8/tpU&#10;uakhP3FBniatnzJ5Iry8PHEnWfbtd3mhQwwVZuggsi6NpQ/u+bVp3dpos4pofhFzfOTXqFFjlFXL&#10;5s1RVi1atCjxvhUSPOQ+HS9PkGs7xDDAJk2byJ1Kx40bj+SUsnd0sXYKnVqq0tDkDF/VZMkdSZVZ&#10;GfLF30Ae0SKPMsmU9lHL+0KrLvPkXwZ2sVHyhGmij4dt4nU5eMg1HVJNilruY+Iv3WrLfUs00rII&#10;H2qv+iiPDu1vj+YQtWhLPl4oj1bp1fM+uakhv9dfexWdOt2F2rVrY9777xUYelvTnZCaLIWwsFDc&#10;06MHiMi6tGtXMEwEFprAK7/69Qv+3W2f7+9oaXXp2hll1bVryTv3l7upRYwtHj9hoty/Q/TzEP09&#10;BNG5VPTzeHniJHz52aewseGUIaWlzEqX5+iQb5kpOaNXMpNgF6+Xm1zkfaTQIdYpsrOl/VPkycTk&#10;/bPLN+rENuFK0ZXyRGa1oHX1kQKHJzQu4t5dXhb9T8rrg/ffx1PPPourV67i/XffQWhIaN62p59+&#10;ElevXcWGjZvkGfIeyp1ER2glJhubfud0Lv1753YQkfVq2rQp/Pz9cetmzmzYmVmZJvdVq29PbVC/&#10;fj35w39ZiZqVOnXq4Nq1a6V6nJi0rHmzpiXev9w1HilSjYYYVdCiZQs5dIjhtOK2ZPFH8jqxTdSI&#10;UOmJadDFjKQiXIiRJKr0eCildTap0XJTiG3KLdikRUvrUnK25Y42EcNeVRkVX9Oks3ORO7xqXMQQ&#10;X08pgHhLtR21pGYWP6nJJQRZtcr+Cy+I+V4WL1wgNZ9MkmszChNNLs888xTGvTC2yLY+fXqDiOhO&#10;IJqWhw4enPezmC4gNa3oh0nRqX73nj15Pw8dOhTlLXfUyBEoraeeHFWq/ctdDSGmrd6y8Vc5bOSv&#10;1RA/i5oOETo8PDxApSeaV8RQVnlG0rzJwdQ5HTpt0nP3ya3pEMEkLRGq1HjpFlfke1sqgtbBRe5Q&#10;qlfZyyNpNM5S8HD3zxnSa++cN5tqefz++zb89fdfGNC/PxwcCjafnD59GuvXb8D9vXvLCTu/xMTE&#10;O+L3THSiXfjRRzhx/ATuksLXC88/DyKyPr1798Lv27bJ8xqJ76maMuUV9Jf+LgYF1pcDQtSVK9iy&#10;ZQtu3MipFWnapAm6V8CQ+0EPDpT+zv5a4gnBxNdb3F/KD34V0v5h6g++CCIMHeUjvnslb5ZSvQY6&#10;MWGYmKVUmRtEdNrcppV0OXTYpMTKI08qnNTMIppTRHOPGKqbM2eIoxQ+fOQQggr4CpE/tv2JTz77&#10;TO6o/Nq0aZg/74O8odhihMsrU1+Te1yPGz8B333zVd5spdlZYuKxqfj6y89RXhU9I2lpHTx4CD/+&#10;mDMV8qnTZ+Q+HuIPChFZFxEuXp0yWf67J0a4XL9xA19+9ZXRfb28vDB50qQinfDLQvzNfWfu23ha&#10;avYuboSLj4+v/EWepS23wka1UCWRLsI5c2lclzt5ipEmNsm3YJscI9/EsvxzwvXc/cr3PS0mn4ao&#10;cZHDR+7wXhtbuelFjHAxhA7RD6U8w3hnzpqdNzpKVC0a5u4QtRnjX3457x9BTEy0/IVqoppR7D9z&#10;9hwcO3YMdwJ7+4J9Zezs+I20RNbK399f/o6qOrVrm9xHDL2dK+0jvm6hotStWweff/JJge/EKiwo&#10;OAiff7ZU/hLP0mKPz5pAuriKwCFmDZVnM5VqHAwXeNH0IjqSij4dldG8YiBGy8jfSCvdTD5NKZAk&#10;dngEZZX/2w4FMVupn68vdkkh5MqVqwW2ib5DU1+fhgahYXJNSXlV1LfMllfbtm3x2quvyNWcbdu2&#10;QZj0+ojIetWrV0/+Nu7f/vgDu3ftxrXr1+X1tQMC0OOeHujbp4/85W0VTUxY+P2q5Vi7bj3++P0P&#10;RF2+LH+mDaxfD30f6IshDz1U5tGEioTEJPkjZviRIwXGAz+4IxMb7nOAJYkyZ7idRO3aZZ8ApSyu&#10;X7+G9u3bg4iIyBIOHz5stdc61ngQERGRxZjs42EjbVFb5vtiiuAsqEREdKez1mudyeBRx1GJC8mW&#10;Sx7hcTo081DBVmqrEtNFW4qYmEXMg09ERGQp1nytMxk8+tVV4csIy5wUUbPyQ6QGnXwV8PHyRlJS&#10;IixBpM3UlBS4u7uDiIjIUqz5WmcyePQKUMHDTonn92fheIKuUppdxDEvpuox5XAW6jgrMKieDQJq&#10;+8PW1hbR0beQlZ1VKVVR4pgiacbExMhfsiN6DRMREVmKNV/rTI5qEUQw+POGFluuanE9o+LDh60U&#10;e3wdcgLHA3VUeet1Oi1uXL+J2Pg4aKSTVtFviEKhgMrGBr7ePqhT17K9iomIiARrvdaZDR5ERERE&#10;FYnDaYmIiMhiGDyIiIjIYhg8iIiIyGIYPIiIiMhiGDyIiIjIYhg8iIiIyGIYPIiIiMhiGDyIiIjI&#10;Yhg8iIjIKsXExMrTiWdkZoDKT8yUam9nBz9/P/h4+5jcj8GDiIisTlRUlPw9Jk0aN+QXhVYQnU6H&#10;lJQURFy4iOTkZIQEhxjdTwkiIiIrcis6Wg4dbdu0ZuioQEqlUj6fbVq3glajlc7zLeP7gYiIyIrE&#10;xsYgNCQYVDlEAAkLDUFcbLzR7WxqISIiq5KVlQ1XV1dQ5RHnNzMr0+g2Bg8iIrIq4uvnxadyqjzi&#10;/IrzbAyDBxEREVkMgwcRERFZDOuaiIiISmLPHiiGDIEyKEi+KYYNA/buBZUOazyIiMjqmOp/YIri&#10;o4+gfOUVMVnF7XVXrkCxfj108+dDP348qGRY40FERGSGYt++IqEjj7ROOXkyFAcOgEqmfMEj9TdM&#10;6tYJHe6ZgZ3ZqHrV7fkQEVGNp1i0yHjoMJC2iRoRKpnim1p0l7H82cew+KQm30oFHPu8i+2vodT0&#10;ycexYc1p+D7wP3QJYIULERFVb4ojR4rfJzwcdxox/fmFCxcRFhYKFxcXo/ukpqYiIuICQkNDSjw3&#10;Ssn7eCjsUSskDLUc5R9gX9dN+v9MlI4OsTuW4cMvLmFQm6EMHkREVO3p60pXvabSgqhJPyzdEgxb&#10;vKRbe8iXUkUaSi4F68fdi6k7s8Q3q0Fl74paQa3Qe9RETBzUAE65e2Vd+wervlyJDbuPIzI6FVp7&#10;D9QObYUBL83C+K6e0jW40HFsHOHuH4p2fUZi0ri+CHFAucTFxWPxkqVo26YNRo54HG5ubgW2i+9j&#10;Wb5iFY4cPYoZb75RCcFDWRsD3voCLzRW3V4nNW0UpMP1vz/H4pV/4eh/15GkcYBfs94Y/drL6B9s&#10;g8u/v483lhxEplQt9eOYbvhR6YEHF27EjM62BY6iTz2PjZ99glU7juNKigoedZvioclz8Vx7KXEl&#10;n8LqxUvww64zuJXliDote2HUyy+gf5ij9CYUpTe3v2ia6Tsbp/rPx5ddDuLtD9fjXMgErF00CD4K&#10;EBGRFYuW/hunHIfhuy5huGGldI3HJ9IV/fX3pOWx0g928uofLgJrh+uxZIkOvr4lOboKjcetxS/j&#10;GgAZsTi3/WNMnjEJ9iHrMKWFDTLPLseYZ79Ayn0vYsrns9Cqriv0SdG4dO48skPd813vDMdpCKU6&#10;FTdObsS7U97Eax6N8cMzQVCh7FxdXaBWa/Dd8hXQ63VS+BgBd/ec8CFqQ75bsRLLl69EgwYN5H1L&#10;qoKrHBRwSL2E4zGuaHp3H/Rq5oSYf9dh7pzViNJpkZKshq29FAYUjgjpOgCDBvZF21qFnoLuJja+&#10;9RLe/vkALmv90KiBL/TRKbDxdoJCdw2/vDEBH248hiSvlujU3B1xh9Zg9vg5+D3GWKefkuyvQ8Ke&#10;+Rg//UccuZUJvas7XBk6iIisWor0X09VT6xTrMN86JHX2cBeukBM/Bn46WXpkpcTOsS2D6VLytq1&#10;CvTsqZQuyigFqabC0RdN+z6MHj43cfGS1JKgvYwf5y7F1Z7v4ZtZj6BbWC24OjjCzS8QLbv3Rnt/&#10;45duha0LarcZgsEd7HH9yk3oUD7e3t4YP24sGjduLIcMEUCSkpJzQocUOERthwgdL0r7iH1LquQ1&#10;Hrrr2DRrNA465jys2agPMKVd4Z0U8HrgXWzqr4RSp0F20h/IGDQHu/47hXPZdugz5AU8sPNPHI9z&#10;R8eRr2FKm6LFayM24vu9iYDnPZix6h084KOELjsLGjsltOe3YPVh6R2t9RDmLnsNnR1TsWvOI5iy&#10;aRdWbYpCn2GFj1Wy/XWxMXAcPAvfP9MFdd3sYQ8iIrJm7yvfxxnpP+GQdBsn3ZZCXP3EhWMgMEi6&#10;e1gKHWsBUe9h6AVy+rQCH36oxKxZJb/s67MTcO631diZ2hqjWjtBF7MRO04FYMBrneFeqg/CWiRf&#10;2Iot/3rg3mlNK2S+jI4dO0AMFF685BMsX7lSatHJeULLV65Co4YN8cLYMejSuVNpDlmK56XPQvSF&#10;U1LFk2ALpziNkX2ScfynhVj0426cuZkGtWGctJ0GGrG7XfHFZEddxBXp/bJpeje6euekOqWdvfzQ&#10;TMO2hq3QXG4Ec0aL1mGw2XQAly5EofAzUpd0f9u2eOz53mjowaoOIiKSKjQUPxX4+QvkdO+YgEfQ&#10;UboXV7eDjwCLpOBxtPBjf1JIwQPF0OL8Z4+g9ZcK6DRq2DUdjjnfLkT/etKH7bPxSIAP/PNaBDQ4&#10;uuhRjF8bI5dr1+lVrP+gX24o0eK/r0biruUK6NWZSNd5of2Ts/BhFzdU1BVNhI+XXnwBHy/9VKrl&#10;WCmvEzUdYp3YVlolDx6qYDz9zcpCfTwK7pJ58FO89tFWxPp0xZh3HkV7r3P4euIS7NWUuBTodblh&#10;RZF7y0eXN+FL0YlfjJ3gku6vsHGFqxNDBxGRtShuArHL0n+FiVqNkah/e0Wg8cdGRRV3fL20XYWG&#10;z6/C2hcaIHnbGxj8bgrsvJ3EAwE3d7ghHjFxWuh9xDVXhebPfo51j6sRueIFjD6XCa20nz73OA2e&#10;/U46TkNpLx0ybh7B8jdfwfDpM7Bu7r2oqM/THTq0x4svPC+HD2Hs86PldaWdiE2owD4eOsRdiECC&#10;Tgn3zsMwsmd7tKznlFPTYaBQQSXnFjWysoxXQ9nXqQc/6VlpTv2Df3L7YejTb+Jmkh4OIWEIFNvO&#10;/YsT6WJDKo4f+U/KgioEhgYWSVGl3Z+IiEioJf1nXMztxWgTjzX1UKMU8Ow5DmNC92DeJwflz/PK&#10;Wh3QOegyft90Ehm5e9k4e8LHxweeTiozNRlKOPq3w6MDmyPhwH78p0WFkptdxo2Vb6VtXsmvAoOH&#10;Ep61a8NRqUPS7u+w4KvPMfuVz3G4QPBwQd067lDq4rFl7hg8P/ppvPdXRoGjqJr0xaAmjtAn7MSs&#10;x4ZjxKjH0L//k/j0hBrKkAF4pIuH9L5vwptPjcek8c9h5m/xgEcnDHsgsMiLKe3+RERkHcQndXO3&#10;/rr+Jh65wehifgMG6Io9fu6TyPlZURsPT3gUzhvm4asTmdArw/D4pMHQ/zgZ4z76DceuJSNLq4U6&#10;PRY347PkOnyjx9FrpRqPw1i57l/YNmiEegp9sc+jtDdRy2Go6SjRazSiQq+9Tt1G4/UhreGXdRK/&#10;/rANMe1fwzvD6+UbzmOHdiNexkPNvKGMi8CZ64CrS6GnoArFiPffx9g+zVBLH43/LsTAJvRudKwv&#10;1U8o/TFw1keYNqQdvBJPYN+/CfBo86DUvPMWBhrr5Vva/YmIiCRv6t40UeuxDHKji5gv7NuiW/38&#10;gGnTSl/VYNdkBCb3T8OK937ABa0C7l2mYvmXYxBydhkmDO2JNq3boW2PoXjrsC96dg6GY161hxbn&#10;P38Mbdt2QKs2HdF5yEzs8XsKH88ZJLceVEeKhMQkOZaEHzmCdm3bgoiI6E4mrnd3d+1S7H6nFKfw&#10;hM0TOK04XWB9L+1j0D+xAtt/LHhlb95cj5UrNWjSpPT9Hu5Eu//ZazRXsJsDERGREc30zRCuDsdJ&#10;xUn8rfwbdno79NX3RaA+EPhOg0uzFPj9dwWysxW45x4dmjXTQ8nK9GIxeBARkdUp6WgMhfRfC30L&#10;tNC1uP3Y3JGSgYF6jB5d+LigYjB4EBERkcUweBARkdXRs2qiyjB4EBERkcWwGwwREVkV8X0jOl15&#10;v0KNyoo1HkREZFXs7eyRmpoKV1dXUOVITEyCs5Oz0W2s8SAiIqvi7u6OyEtRoMohapOuXL0KF1cX&#10;o9tZ40FERFbFw8MdWVmZOHrsGEKCguDi4gIlJ+AoNxE4MjIzEXHhIhwdHeHu5mZ0PwYPIiKyKs7O&#10;znIziyrDBhcuRiJbnS1dNDnKpbyUSgVsbW2lIOcKl9xzbAyDBxERWRXRudTX1xdpaWlwsLeDWq3h&#10;8NoKIM6rjY1KChxuci2SKQweRERkdcRFUlwczV0gqXIweBAREZHFMHgQERGRxVRZ8PD0cJfvFbk/&#10;57+v7uuqunw+z6pZV1OeZ2U99+r83HhcHrcij3tTuvWWbtnBwRg5ciTymzBxEoxJSEjArVvRSEtP&#10;g7URzVaODg4ICPCHh4dnsfuzxoOIiCifAOn2p3TrFRkJlUqF6dOn521LTEousn9UVBTUajWaNG4o&#10;zxFibcQw2pSUFJz/LwLxUgALCQ4xuz8HLhMRERViCB+rZszAnDlzTO4XFx8vh4727dpaZegQxBwo&#10;4rW3a9sGWo1WOidx5vcHERERFSHCx3aYDx/R0bfQICwUlBNAGjYIQ0x0rPn9QEREREblDx9du3Yt&#10;sj0jI5Pf+ZKPOBfpGelm92HwICIiMkOEjx3Szc/Pr8g2MfEYp1u/TZyL4iZjY+dSIiKiYojwseyb&#10;b0Hlx+BBREREFsPgQURERBbD4EFEREQWw+BBREREJbJ6zVr5ftjQISgrBg8iIiKymDIEjxRsntwf&#10;b+3OFhO0Q2XnAp/AFrjv0XEY2z8UTiAiIiLoEvDvmk+xZOU2HI5KhM4lEJ2GTcDM8fegtkrskI2d&#10;r/fA6F+SkDcAVRWE0T9uxKstVSXYXjOVscZDhYbPrcSK50KBjDhE/P053pg7DXZBqzC+GStRiIiI&#10;9KkR2HfSAQPfWYNPmnkg4/xaTBv9GmYFbcZnD3lDoU9DbKwWPebuwtKBuZOQKZSwsc0NFcVtr6HK&#10;OeuJVOPh6INGvQaiq88tXLqcJQW0cCwY1g9PL78AHYiIiKyTwq0Dxs6ehEHNvWGnUMG90UD0baHB&#10;5Uu3cq6PunjExjvDz98d9vb2OTc7W6gMX5Nb3PYaqtzVE/rsBPz353rsTm2BR1s4SpUhUhBp3wG2&#10;gW4gIiKiXBnHEX7OFa2GBkKus9CnIjk1EVun9sQf2dIHd9f6aD9gNF57sTcC7UqwvRhhjZqiNCLO&#10;nS7ws6EjqTHGtpW0w2kZg4cWEcuewt3fSYFMo4Fdo4fxxqfvok9dUYESiP5TZ4GIiIhy6WKx4923&#10;8Xezyfi+u3POOptWmPTzNjxn5wkvBx0Szv+OeZOnYYzODxuntIRtcdtRM5W5j0fY01/KfTxSds7C&#10;Y/NTYevtjBpe+0NERFTxNNfx++xxePf6//DpxwMQkK+Tg627D7zkJRU8G/XHK09tRPeVexE5sSUa&#10;qorfbk7hGozSMlaDURHDacvdx8Ojx2g8HbwPH391GGkgIiKiPFmRWPvKs5iX+Ci+/HgEmjia312j&#10;1kDh4AhHRdm21wTl/0o9ZW08OO5/cNr8Eb47nS1VJ0Vhy7xZWLorlp1LiYjIeqWfwXcvjcHnqtH4&#10;ZM4A1NGnIz1dumVkQwvR+vIv/tx1FjdT1dBDg/hT6/DeN2fResC9qK0sfntNVSFjX+0aPYLxfbfg&#10;1QU/o+/iJjh7cD9O+j0BdPcBERGRNUrb/gk++OsqsjAN/TZOy1uv9BmGZX/NQhck4NDXCzBzyk0k&#10;ZSvg5NcE9z3+MT56tL7c+VRXzPaaSpGQmCTPSxJ+5AjatW0LS/H0cM95AoYnku++uq/j86zYdXye&#10;lb+uuhyDx+Vxa/JxkxKTUJi4dva89x5Yi5L08di+8y+zeYKzfREREVGJlKdTqQGDBxEREVkMgwcR&#10;ERFZDIMHERERWUwNHpBDRERkGYnS7clRI0Hlx+BBRERkhggd90o3tVpdZJtCoYBOx1mrSoPBg4iI&#10;yAQROu6Tbs8sXozNmzcX2e7k6ISUlBRQjri4eHi4u5vdh8GDiIjIiPyhY/z48Ub38fOrhfP/RYAg&#10;1/xEXroED09Ps/sxeBARERVSktAhiE/3tra22HfgABISEqyy2UW85pTUVBwKPwIHBwd4e3mZ3Z+j&#10;WoiIiPIRoaOndFM3aSI1HcRh5syZedsmTJxUYF+FUonA+vWRmJSEc+cjkJGZLl2I9bAmSqVCDhz+&#10;fv7wLKa2Q6iy4JFgZOpZIiKistAXui8PcWH8uxT7i/AhLrgluegSazyIiIjIghg8iIiIyGIYPIiI&#10;iMhiqix4LFq4IG/5iy++QK0bN/CXEvCojO9Drinf28znWb3X1ZTnWVnPvTo/Nx6Xx7XAcROTTfdN&#10;FCNabt2KRlp6GqyNmETN0cEBAQH+8PCoxp1LDb2EJ02adDt0gIiIqGaJioqSZzVt0rgh3IuZPOtO&#10;JA+nTUmR5zOJlwJYSHCI2f2rdB4PETp2LFyIvxQMHUREVPPExcfLoaN9u7ZWGToEpVIpv/Z2bdtA&#10;q9FK5yTO/P6oIgwdRERU00VH30KDsFBQTgBp2CAMMdGxZversqYWOXSAoYOIiGqujIxMuLq6gnKI&#10;c5GekW52nyoLHuvA0EFERDWbXq+XP+lTDnEuxDkxp8qCRzCIiIjI2nAeDyIiIrIYBg8iIiKyGAYP&#10;IiIishgGDyIiIiqRsEZN5fuIc6dRVgweREREZDFlDh7ZN/bj529/xJZ9pxAVkwadvTv8g5uj7/PT&#10;MPouz7zp7YmIiKyV5tp2fDhjPtaE34DaNQQ9Rk3DrGfawdOKL5JlCh5Z53/AhPHfILX7GLy06E00&#10;r+0MXUoMrpy/gOwgd4YOIiIibRRWTH0Texq/h42f3A33G1sw47lJmFlnHRY94GW118rSz3qiu4q1&#10;H36Baz1mYem0IegU4gMXB0e4+dZHs673oo1f7iGzw7FgWD88vfwCdCAiIrIuums7sPVMS4wa2x0B&#10;9ko4BfXD+EfqYNcvOxGnh9UqdY2HLnY/dp31R99JHeFmLq6pfNCofQfYBrqBiIjI2mijLuCydxga&#10;uBsulkrUbhQGh1XncFEL+FRyL8vVa9aWav9hQ4cU+NnQkdQYY9tK2uG01C9bn5iARPjAz8dQWaLB&#10;8U+exqsbYuWaDbsOE/D97D5wUwWi/9RZICIiska6tHRkOATAPt+HdIWjExwyUpDOGo+SU7i5ww3x&#10;iE2QYoaPSj5E0yc/wvfDNbj040S8/F8Wm1aIiMjqKZ2c4JiVjqx8IUOfkYEsR2c4WaCDR+EajNIy&#10;VoNREcNpS93HQ1mrLTrUv4rtv51GZu46GydPeHl7w8NJxY6lREREElVoQwTHXUREsiF56HAzIgJp&#10;QWEIUsFqlb5zqTIUw8c/CP3aaZj86Z84dSMF2TodNBnxiE7IQl6w00Vhy7xZWLorljUgRERkdZQB&#10;vTGo9Ums+HI/ojV6ZF3dhqXfR6JDv+7w4XDa0lDA7a6J+GJJCL76ejmmPjEb0WkaqBzc4Fu3AXr0&#10;C4KDOKHqWJw9uB8n/Z4AuvuAiIjIqigDMGzuO7g+Yy4GdryODPvauGv4B3hnsH8ZPvXfOcrYp1YJ&#10;z+aD8cpC6WZqF7t2mLR6K4iIiKyVyu9uTPpcuoEMOGU6ERERlUh5OpUaMHgQERGRxTB4EBERkcUw&#10;eBAREZHFVFnH2h0gIiIia1NlweN56RYJIiKimkuhUECn42xVpVFlwWPE7NkYCIYPIiKquZwcnZCS&#10;kgLKERcXDw93d7P7VFnwmD59OoaL8KFn+CAioprJz68Wzv8XAYJc8xN56RI8PD3N7lelk6cxfBAR&#10;UU0mPt3b2tpi34EDSEhIsMpmF/GaU1JTcSj8CBwcHODt5WV2/yob1TJz5sy85fTgYAyMjMRGKQYF&#10;g4iIqGZQKJUIrF8fiUlJOHc+AhmZ6dKF2Lq+816pVMiBw9/PH57F1HYIioTEJPkMhR85gnZt24KI&#10;iIiosnAeDyIiIrIYBg8iIiKyGAYPIiIispgqCx6LFi7IW/7iiy9Q68YN/AUlPKCQ1ihyt+S/r07r&#10;quNz4vOs/HU15XlW1nOvzs+Nx+VxK/+4iYmm5+sQI1pu3YpGWnoarI2YRM3RwQEBAf7w8Ci+c2mV&#10;j2qZNGlSvtBBRERUs0RFRUGtVqNJ44ZwL2byrDuRPJw2JUWezyReCmAhwSFm96/SeTxE6NixcKEU&#10;OhQMHUREVOPExcfLoaN9u7ZWGToEpVIpv/Z2bdtAq9FK5yTO/P6oIgwdRERU00VH30KDsFBQTgBp&#10;2CAMMdGxZversqaWnNABhg4iIqqxMjIy4erqCsohzkV6RrrZfaoseKwDQwcREdVser1e/qRPOcS5&#10;EOfEnCoLHsEgIiIia8N5PIiIiMhiGDyIiIjIYhg8iIiIyGIYPIiIiKhEwho1le8jzp1GWTF4EBER&#10;kcWUIXikYPPk/nhrd7aYoB1KGwe4+wWj9b2PYdzoXgiyBxEREUk017bjwxnzsSb8BtSuIegxahpm&#10;PdMOngpYrTIOPlah4XMrceDAPhz4ayNWzOwHxbY5mPlTFHQgIiIiaKOwYuqb2BM8FRsPhGPfiqdg&#10;99MkzPwtHnpYr3LPeqKwdYF/ywcxoK0dbl6PhlaszA7HgmH98PTyCwwiRERklXTXdmDrmZYYNbY7&#10;AuyVcArqh/GP1MGuX3YizoqTRwX08dAiJXIb/jjujrsnN845oMoHjdp3gG2gG4iIiKyRNuoCLnuH&#10;oYG7oV1FidqNwuCw6hwuSp/SfSq5l+XqNWtLtf+woUMK/GzoSGqMsW0l7XBaxpetRcR3o9HzByX0&#10;mkxk6DzQ5rE3MOcuV8inVxWI/lNngYiIyFrp0tKR4RAA+3z9ORSOTnDISEE6azxKS4WwUV9gxXNh&#10;0pIOGbeO4Yc5b+Dpua9h1YzucLfiTjNERESC0skJjlnpyMoXMvQZGchydIaTBa6ThWswSstYDUZF&#10;DKetgG+2UcLRrzWGPtAUiYcP4YIWREREVk8V2hDBcRcRkWxIHjrcjIhAWlAYglSwWhUQPHTIjD6K&#10;nzcdh21YA9QVR9RFYcu8WVi6K5adS4mIyCopA3pjUOuTWPHlfkRr9Mi6ug1Lv49Eh37d4WPFLQNl&#10;7+Ox7Cnc/Z20qBfVSbXQqMsIzHtpAGqJ4JEdi7MH9+Ok3xNAdx8QERFZHWUAhs19B9dnzMXAjteR&#10;YV8bdw3/AO8M9q+IT/01VhmChyv6z9+F/uZ2sWuHSau3goiIyJqp/O7GpM+lG8iAU6YTERFRiZSn&#10;U6kBgwcRERFZDIMHERERWQyDBxEREVlMlXWs3QEiIiKyNlUWPJ6XbpEgIiKquRQKBXQ6zlhVGlUW&#10;PEbMno2BYPggIqKay8nRCSkpKaAccXHx8HB3N7tPlQWP6dOnY7gcPvQMH0REVCP5+dXC+f8iQJBr&#10;fiIvXYKHp6fZ/ap08jSGDyIiqsnEp3tbW1vsO3AACQkJVtnsIl5zSmoqDoUfgYODA7y9vMzuX2Wj&#10;WmbOnJm3nB4cjIGRkdgo5aBgEBER1QwKpRKB9esjMSkJ585HICMzXboQW9d33iuVCjlw+Pv5w7OY&#10;2g5BkZCYJJ+h8CNH0K5tWxARERFVFs7jQURERBbD4EFEREQWw+BBREREFlNlwePX9etyFvQ5nXAU&#10;hg3iZ+n2999/F9xWaL8e3bsXfEzuvWHd7l27iqzLv//d3boVLT/f8p49e+T7wmUYfu7SubPxbbnL&#10;+/ftM1t+p7vugrHXbVh34MAB0+VLyx07djT6ug3rwg8fNlu+oT+PqfKPHDlitvw2bdqYLf/4sWNG&#10;31vDcssWLcyWf+LECaPvu2Fd8+bNzZZ/+tQpo6/bsNykceMCxyu837mzZwEz5Tdq1Mhs+f+dP2+2&#10;/LDQULPlX7xwoUj5+beHhIQYLdewLjIy0mz5QYGBtx9npPwrly8XKT//MerVq2f0995wf+3qVaO/&#10;O4Z1dWrXhrHnbVi+ceOGyXMjlv39/c2WH33rVpFt+c9HLV9fs+XHxsaa/Lcj+Hh7m/39jo+LM1u+&#10;p4cHAJj8+5eUlGTyvRfc3dxMvvdCSnKyyecm7p2dnU2eX3FLT083W76To2OR15d//8yMDJPli2XR&#10;EdHU756gzs42e35tbWzMlq/VaIqsy7+/SqUy++/3uk6HXtJydnAwRo4cifwmTDT+BfdiRMutW9FI&#10;S0+DtRGTqDlK72lAgD88PIrvXMoaDyIionwCpNt26WLaUwrwIqSIqR8MEpOSi+wfFRUFtVotfaBp&#10;CPdiJs+6E8nDaVNS5PlM4qUAFhIcYnb/Kp3Hg4iIqDoyhI9VM2Zgzpw5JveLi4+XQ0f7dm2tMnQI&#10;SqVSfu3t2raRapu00jmJM78/iIiIqAgRPnYUEz6io2+hQVgoKCeANGwQhpjoWPP7gYiIiIzKHz66&#10;du1aZHtGRiZcXV1BOcS5SM9IN7sPgwcREZEZcviA+F4WvyLb9Hq9/Emfcohzodebn7mVnUuJiIiK&#10;IcLHsm++BZUfgwcRERFZTJUFj507d8r3psb69+jRw+QYcGFX4Xk+UHBMd/e77y6yrsA8Hbt3Fyk/&#10;/3I3Mc+HmXHm+/buNTvOvHOnTmbLP7B/v9HXbVh3l5jnw0T5YvngwYNGX7dhXft27cyWfyQ83Gz5&#10;bcU8H2bKP3r0qNnyW7VsafS9NSyfOH7cbPktxDwfetPzVJw8edJs+c2aNTP6ug3LZ8+cKXC8wvs1&#10;FvN0ACbLP3funNnyGzZsaLb8CxERZssPDQkpWn6+7RcvXjQ5R4RYFxwcbLb8S5cu5a0zVn59MU+H&#10;iW3yPB9XrpicI0KoW7cuTM0RIVy7ds3o8zYsBwQEmDw3YvnmzZtmy8+rEjfxOxQdHW22fB8fH5P/&#10;doS42Fizv995385ponwx50P+4xX+dyBGCJh674XkQvN8FC7fzdDnwMhzE/dpaWkmz6+4OTk5mS0/&#10;Iz29yOvLv7+Y08FU+fI8H5mZJn/3BDtbW7PnV6NWmy3fRszTAdP/frVabYHH6QuVLzedFH7vFXlH&#10;o3JijQcRERFZDIMHERERlcjqNWvl+2FDh6CsGDyIiIjIYsoxBkiHC8tGoUvvN7AtWQ8iIiIqKuvK&#10;Nswd3hXNn/kZsYUul5pr2/HeM/3QvnUbtLp7CF76KhwJ+pJvr4nKHjyyj2H9Fg0a1zuOddtuSTGE&#10;iIiIblPj8m9z8diTXyLR3w9Fuqdqo7Bi6pvYEzwVGw+EY9+Kp2D30yTM/C0e+pJsr6HKGDz0SNm7&#10;Htvd7seUJzsh6tctiMyfPLLDsWBYPzy9/AIDCRERWSkVHFya4tkvv8Xku9yLXHB113Zg65mWGDW2&#10;OwLslXAK6ofxj9TBrl92Ik5f/Paaqmx9PHSx+HPdIYQOfBGNO91Ar4/nYN2xJzCljV3OdpUPGrXv&#10;ANtANxAREVknJWp1G4wHpI/gN/cV3aqNuoDL3mFo4J43kBe1G4XBYdU5XNQC7sVs9ynmCh7WqClK&#10;I+Lc6QI/GzqSGmNsW0k7nJYpeOiitmJ9RAeMetsHSjtvDOrngnHr9mJM63vgKs6PKhD9p84ye4x7&#10;7703Z8HEWP+/C8/TUWi/Ht27mxyjLezetavIuvz73y3m6Sh83PzzfOzZY3aceZfOnc2OM9+/b5/Z&#10;8juJeTpgep6GAwcOmC5fWu7YsaPR121YF374sNny24l5OsyUf+TIEbPlt2nTxmz5x48dM/reGpZb&#10;ink6zJR/4sQJo++7YV3z5s3Nln/q1Cmjr9uw3KRx4wLHK7zfubNnATPlNxLzfJgp//z582bLDwsN&#10;NVv+xQsXipSff3uImOdDb3qek8jISLPlBwUF3X6ckfKvXL5cpPz8x6gn5vnQG58jQrh69arJOSKE&#10;OnXqwNjzNizfuHHD5LkRy/7+/mbLv3XrVpFt+c9HrVq1zJYfGxtr8t+O4OPtbfb3Oz4uzmz5np6e&#10;AGDy719SoXk6Cpfv7uZm8r0XUpKTTT43ce/s7Gzy/Ipbupinw0z5To6ORV5fgXk6MjJMli+WHcQ8&#10;HyZ+9wR1drbZ82trY2O2fK1GU2Rd/v3FV90XOG+GOTpy14mveS/83hc3DXhZ6NLSkeEQAHvF7XUK&#10;Ryc4ZKQgXV/89pqqDMEjGyd+3YCzCXF4++G+mCtWaTKQopeaXmK74yFfzllPRERUHKWTExyz0pGV&#10;L0TopdCW5egMJ0Xx24tTuAajtIzVYFTNcNq0A1i3zRbDF/6AJ4JzQ4Y+CdvfHod1W67gwVGB/OY5&#10;IiKiYqhCGyI4bh8ikvVo7SWShNQkExGBtKBBCFIVv72mKmVG0CNux3rs9uuHhzv4y9WV8s0vDP0f&#10;ugs3Nm3ASamGTGqLwZZ5s7B0Vyw7lxIRERmhDOiNQa1PYsWX+xGt0SPr6jYs/T4SHfp1h4+i+O01&#10;VemCh+4KNq87jkb9+6B+gUcq4NZ1IO7J+gPrDkptg5pYnD24H+GXkkBERERGKAMwbO476HFxLgZ2&#10;bIcOwz5GXL8P8M5g/5yLc3Hba6jSNbUo62Pksm0YaWybQ0dM27Ax94d2mLR6K4iIiEgJ/8e/wbHH&#10;i25R+d2NSZ9LNxOPLG57TcQp04mIiKhEytOp1IDBg4iIiCymyoLHzp075XtTY/179Ohhcgy4sKvw&#10;PB8oOKa7+913F1lXYJ6O3buLlJ9/uZuY58PMOPN9e/eaHWfeuVMns+Uf2L/f6Os2rLtLzPNhonyx&#10;fPDgQaOv27Cufbt2Zss/Eh5utvy2Yp4PM+UfPXrUbPmtWrY0+t4alk8cP262/BZing+96XkqTp48&#10;abb8Zs2aGX3dhuWzZ84UOF7h/RqLeToAk+WfO3fObPkNGzY0W/6FiAiz5YeKeTpQdH4Fw7qLFy+a&#10;nCNCrAsODjZb/qVLl/LWGSu/vpinw8Q2eZ6PK1dMzhEh1K1bF6bmiBCuXbtm9HkblgMCAkyeG7F8&#10;8+ZNs+X7+fkV2Zb/fERHR5st38fHx+S/HSEuNtbs77e3l5fZ8hMSElDk3OD2++Hu7m7yvReSC83z&#10;Ubh8N1dXk89N3KelpZk8v+Lm5ORktvwMMc9HodeXf39HMU+HifLleT4yM03+7gl2trZmz69GrTZb&#10;vo1KVWRd/v21Wm2Bx+kLla9UKou+94q8o1E5scaDiIiILIZTbhARERUjUbo9OWokqPwYPIiIiMwQ&#10;oeMeqclFbWjiyUc0wYgp1qnkGDyIiIhMEKHjXil0PLN4MTZv3lxku5OjE1JSUkA54uLi4eHubnYf&#10;Bg8iIiIj8oeO8ePHG93Hz68Wzv8XAcr5cr3IS5fgYfgSRBMYPIiIiAqRQ4d0ITUXOgTx6d7W1hb7&#10;DhyQRytZY7OLeM0pqak4FH5E/ubhvFFdJnBUCxERUT6G0JHdpInUdBCHmTNn5m2bMLHgHKIKpRKB&#10;9esjMSkJ585HICMzXboQ1+DvrC8DpVIhBw5/P394FlPbISgSEpPkMxR+5AjaibkbiIiIiCoJazyI&#10;iIjIYhg8iIiIyGIYPIiIiMhiGDyIiIjIYhg8iIiIyGIYPIiIiMhiGDyIiIjIYhg8iIiIyGIYPIiI&#10;iMhiGDyIiIjIYhg8iIiIyGIYPIiIiMhiGDyIiIjIYhg8iIiIyGIYPIiIiMhi/g/OIyeuUYozGQAA&#10;AABJRU5ErkJggg==&#10;"
+           id="image1-6"
+           x="27.714779"
+           y="62.277206"
+           style="stroke-width:2.01783" /><ellipse
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="path7"
+           cx="92.29924"
+           cy="79.435501"
+           rx="10.664055"
+           ry="3.1805072" /><ellipse
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+           id="ellipse7"
+           cx="92.29924"
+           cy="79.435501"
+           rx="10.664055"
+           ry="3.1805072" /><text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-17.938793,36.645583)"
+           id="text34"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect38);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:label="uitleg"><tspan
+             x="465.69727"
+             y="150.14008"
+             id="tspan103">Kies RGB 
+</tspan><tspan
+             x="465.69727"
+             y="173.47345"
+             id="tspan105">* <tspan
+   style="fill:#ff0000"
+   id="tspan104">puur rood voor uitsnijden</tspan>
+</tspan><tspan
+             x="465.69727"
+             y="196.80683"
+             id="tspan107">* <tspan
+   style="fill:#0000ff"
+   id="tspan106">puur blauw voor graveren</tspan>
+</tspan><tspan
+             x="465.69727"
+             y="220.1402"
+             id="tspan108">* zwart om vlak te vullen (traaag!)
+</tspan><tspan
+             x="465.69727"
+             y="243.47357"
+             id="tspan109">* &quot;A&quot; = altijd 100%</tspan></text></g></g><g
        id="g23"
        inkscape:label="Chapter Objecten schikken"
-       transform="translate(216.95833,109.21847)"><text
+       transform="translate(216.95833,99.69347)"><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-12.049795,1.1862349)"
          id="text20"
@@ -1125,7 +1193,7 @@
          inkscape:label="Werkblad grootte"><tspan
            x="141.08008"
            y="143.30621"
-           id="tspan176">Objecten schikken</tspan></text><g
+           id="tspan110">Objecten schikken</tspan></text><g
          id="g21"
          inkscape:label="number 1"
          transform="translate(0,-0.91947661)"><circle
@@ -1153,11 +1221,11 @@
          y="0"><tspan
            x="576.37891"
            y="138.76736"
-           id="tspan177">SHIFT+CTRL+L
+           id="tspan111">SHIFT+CTRL+L
 </tspan><tspan
            x="485.13931"
            y="158.76736"
-           id="tspan178">Object -&gt; Layers and Objects</tspan></text><text
+           id="tspan112">Object -&gt; Layers and Objects</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,13.20315)"
          id="text23"
@@ -1165,10 +1233,10 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan179">Laser cutter &amp; borduurmachine behandelt </tspan><tspan
+           id="tspan113">Laser cutter &amp; borduurmachine behandelt </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan180">objecten van onder naar boven
+           id="tspan118">objecten van onder naar boven
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-74.331661,37.327185)"
@@ -1179,15 +1247,15 @@
          y="0"><tspan
            x="642.14258"
            y="138.76736"
-           id="tspan181">&quot;S&quot;
+           id="tspan119">&quot;S&quot;
 </tspan><tspan
            x="498.30405"
            y="158.76736"
-           id="tspan182">Klik op pijltje links-boven
+           id="tspan120">Klik op pijltje links-boven
 </tspan><tspan
            x="521.02802"
            y="178.76736"
-           id="tspan183">PageUp / PageDown</tspan></text><text
+           id="tspan121">PageUp / PageDown</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,34.947141)"
          id="text26"
@@ -1195,14 +1263,14 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan184">Objecten slepen/draaien/rekken
+           id="tspan122">Objecten slepen/draaien/rekken
 </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan185">Bovenaan verschijnen ikoontjes om objecten </tspan><tspan
+           id="tspan123">Bovenaan verschijnen ikoontjes om objecten </tspan><tspan
            x="465.69727"
            y="196.80683"
-           id="tspan186">op/onder elkaar te leggen, spiegelen, draaien
+           id="tspan124">op/onder elkaar te leggen, spiegelen, draaien
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,62.151575)"
@@ -1213,11 +1281,11 @@
          y="0"><tspan
            x="578.38672"
            y="138.76736"
-           id="tspan187">CTRL+SHIFT-A
+           id="tspan125">CTRL+SHIFT-A
 </tspan><tspan
            x="484.2435"
            y="158.76736"
-           id="tspan188">Object -&gt; Align and Distribute</tspan></text><text
+           id="tspan126">Object -&gt; Align and Distribute</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,59.771531)"
          id="text41"
@@ -1225,15 +1293,15 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan189">LET OP:
+           id="tspan127">LET OP:
 </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan190">- &quot;move/align selection as group&quot;
+           id="tspan128">- &quot;move/align selection as group&quot;
 </tspan><tspan
            x="465.69727"
            y="196.80683"
-           id="tspan191">- &quot;relative to:&quot; page/selection</tspan></text><text
+           id="tspan129">- &quot;relative to:&quot; page/selection</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,111.50421)"
          id="text42"
@@ -1243,11 +1311,11 @@
          y="0"><tspan
            x="658.26172"
            y="138.76736"
-           id="tspan192">&quot;%&quot;
+           id="tspan130">&quot;%&quot;
 </tspan><tspan
            x="439.99869"
            y="158.76736"
-           id="tspan193">Klik op magneet ikoon rechts-boven</tspan></text><text
+           id="tspan131">Klik op magneet ikoon rechts-boven</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,109.12416)"
          id="text43"
@@ -1255,7 +1323,7 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan194">&quot;snap&quot;: objecten klikken aan elkaar
+           id="tspan132">&quot;snap&quot;: objecten klikken aan elkaar
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,86.952679)"
@@ -1266,7 +1334,7 @@
          y="0"><tspan
            x="582.20963"
            y="138.76736"
-           id="tspan195">CTRL + slepen</tspan></text><text
+           id="tspan133">CTRL + slepen</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,84.572629)"
          id="text60"
@@ -1274,7 +1342,7 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan196">Sleep in een rechte lijn (hor / vert)
+           id="tspan134">Sleep in een rechte lijn (hor / vert)
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,132.15882)"
@@ -1285,7 +1353,7 @@
          y="0"><tspan
            x="618.98047"
            y="138.76736"
-           id="tspan197">hulplijnen</tspan></text><text
+           id="tspan135">hulplijnen</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,129.77877)"
          id="text12"
@@ -1293,10 +1361,10 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan198">Sleep van de rand (met meetlat) </tspan><tspan
+           id="tspan136">Sleep van de rand (met meetlat) </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan199">naar het midden
+           id="tspan137">naar het midden
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,93.699554)"
@@ -1307,7 +1375,7 @@
          y="0"><tspan
            x="579.49347"
            y="138.76736"
-           id="tspan200">CTRL + roteren</tspan></text><text
+           id="tspan138">CTRL + roteren</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,91.319504)"
          id="text24"
@@ -1315,7 +1383,7 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan201">Draai per 15 graden</tspan></text></g><g
+           id="tspan139">Draai per 15 graden</tspan></text></g><g
        id="g33"
        inkscape:label="Chapter Objecten combineren"
        transform="translate(437.38793,23.518244)"><text
@@ -1328,7 +1396,7 @@
          inkscape:label="Werkblad grootte"><tspan
            x="141.08008"
            y="143.30621"
-           id="tspan202">Objecten combineren</tspan></text><g
+           id="tspan140">Objecten combineren</tspan></text><g
          id="g29"
          inkscape:label="number 1"
          transform="translate(0,-0.91947661)"><circle
@@ -1356,11 +1424,11 @@
          y="0"><tspan
            x="624.53516"
            y="138.76736"
-           id="tspan203">CTRL+G
+           id="tspan141">CTRL+G
 </tspan><tspan
            x="573.41016"
            y="158.76736"
-           id="tspan204">SHIFT+CTRL+G
+           id="tspan142">SHIFT+CTRL+G
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,13.097824)"
@@ -1369,11 +1437,11 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan205">Groeperen brengt structuur in je document
+           id="tspan143">Groeperen brengt structuur in je document
 </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan206">dubbel-klik om in groep &quot;af te dalen&quot;
+           id="tspan144">dubbel-klik om in groep &quot;af te dalen&quot;
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,32.434787)"
@@ -1384,11 +1452,11 @@
          y="0"><tspan
            x="626.24609"
            y="138.76736"
-           id="tspan207">CTRL+K
+           id="tspan145">CTRL+K
 </tspan><tspan
            x="575.12109"
            y="158.76736"
-           id="tspan208">SHIFT+CTRL+K</tspan></text><text
+           id="tspan146">SHIFT+CTRL+K</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,29.949417)"
          id="text33"
@@ -1396,11 +1464,11 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan209">Combineer meerdere vormen tot 1 object
+           id="tspan147">Combineer meerdere vormen tot 1 object
 </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan210">Splits 1 object in alle aparte vormen</tspan></text><text
+           id="tspan148">Splits 1 object in alle aparte vormen</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-68.352181,50.01118)"
          id="text38"
@@ -1410,19 +1478,19 @@
          y="0"><tspan
            x="547.61069"
            y="138.76736"
-           id="tspan211">Path -&gt; Union
+           id="tspan149">Path -&gt; Union
 </tspan><tspan
            x="519.04819"
            y="158.76736"
-           id="tspan212">Path -&gt; Difference
+           id="tspan150">Path -&gt; Difference
 </tspan><tspan
            x="509.20444"
            y="178.76736"
-           id="tspan213">Path -&gt; Intersection
+           id="tspan151">Path -&gt; Intersection
 </tspan><tspan
            x="522.89453"
            y="198.76736"
-           id="tspan214">Path -&gt; Exclusion</tspan></text><text
+           id="tspan152">Path -&gt; Exclusion</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,47.631136)"
          id="text39"
@@ -1430,11 +1498,11 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan215">Smelt meerdere vormen samen.
+           id="tspan153">Smelt meerdere vormen samen.
 </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan216">Handig voor de &quot;node tool straks</tspan></text></g><g
+           id="tspan154">Handig voor de &quot;node tool straks</tspan></text></g><g
        id="g52"
        inkscape:label="Chapter Objecten vervormen"
        transform="translate(437.38793,98.148264)"><text
@@ -1447,7 +1515,7 @@
          inkscape:label="Werkblad grootte"><tspan
            x="141.08008"
            y="143.30621"
-           id="tspan217">Objecten vervormen</tspan></text><g
+           id="tspan155">Objecten vervormen</tspan></text><g
          id="g46"
          inkscape:label="number 7"
          transform="translate(0,9.7445775)"><circle
@@ -1475,11 +1543,11 @@
          y="0"><tspan
            x="661.47266"
            y="138.76736"
-           id="tspan218">&quot;B&quot;
+           id="tspan156">&quot;B&quot;
 </tspan><tspan
            x="579.91797"
            y="158.76736"
-           id="tspan219">Klik op pen tool</tspan></text><text
+           id="tspan157">Klik op pen tool</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,24.802647)"
          id="text48"
@@ -1487,17 +1555,17 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan220">Klik meermaals op pagine om gebroken </tspan><tspan
+           id="tspan158">Klik meermaals op pagine om gebroken </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan221">rechte lijnen te tekenen
+           id="tspan159">rechte lijnen te tekenen
 </tspan><tspan
            x="465.69727"
            y="196.80683"
-           id="tspan222">(je kan slepen om gebogen lijnen te tekenen, </tspan><tspan
+           id="tspan160">(je kan slepen om gebogen lijnen te tekenen, </tspan><tspan
            x="465.69727"
            y="220.1402"
-           id="tspan223">maar dat is niet nodig)
+           id="tspan161">maar dat is niet nodig)
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,74.261132)"
@@ -1508,11 +1576,11 @@
          y="0"><tspan
            x="660.13672"
            y="138.76736"
-           id="tspan224">&quot;N&quot;
+           id="tspan162">&quot;N&quot;
 </tspan><tspan
            x="571.32422"
            y="158.76736"
-           id="tspan225">Klik op node tool</tspan></text><text
+           id="tspan163">Klik op node tool</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,71.881088)"
          id="text62"
@@ -1520,7 +1588,7 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan226">Hiermee kan je rechte lijnen &quot;krom&quot; trekken</tspan></text><text
+           id="tspan164">Hiermee kan je rechte lijnen &quot;krom&quot; trekken</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,56.449109)"
          id="text63"
@@ -1530,11 +1598,11 @@
          y="0"><tspan
            x="576.76172"
            y="138.76736"
-           id="tspan227">SHIFT-CTRL+C
+           id="tspan165">SHIFT-CTRL+C
 </tspan><tspan
            x="533.39716"
            y="158.76736"
-           id="tspan228">Path -&gt; Object to Path</tspan></text><text
+           id="tspan166">Path -&gt; Object to Path</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,54.069065)"
          id="text64"
@@ -1542,10 +1610,10 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan229">Vanaf nu kan je de geselecteerde vorm (of </tspan><tspan
+           id="tspan167">Vanaf nu kan je de geselecteerde vorm (of </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan230">tekst) veranderen met de node-tool
+           id="tspan168">tekst) veranderen met de node-tool
 </tspan></text><g
          id="g262"
          inkscape:label="example curve handles"><path
@@ -1592,9 +1660,9 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect66);display:inline;fill:#e0b6b6;fill-opacity:1;stroke:#000000;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="1434.7617"
              y="818.55414"
-             id="tspan232"><tspan
+             id="tspan170"><tspan
                style="fill:#000000;stroke:none"
-               id="tspan231">Maak gebogen lijn recht</tspan></tspan></text><path
+               id="tspan169">Maak gebogen lijn recht</tspan></tspan></text><path
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
            d="m 126.37576,138.25409 c 0,18.94008 1.42973,16.83095 6.34575,16.83095"
            id="path66"
@@ -1605,9 +1673,9 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect67);display:inline;fill:#e0b6b6;fill-opacity:1;stroke:#000000;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="1434.7617"
              y="818.55414"
-             id="tspan234"><tspan
+             id="tspan172"><tspan
                style="fill:#000000;stroke:none"
-               id="tspan233">Gebogen lijn vloeit mooi door</tspan></tspan></text><path
+               id="tspan171">Gebogen lijn vloeit mooi door</tspan></tspan></text><path
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
            d="m 103.82529,138.25409 c 0,24.96208 2.36517,23.55482 15.51309,23.55482"
            id="path67"
@@ -1618,9 +1686,9 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect68);display:inline;fill:#e0b6b6;fill-opacity:1;stroke:#000000;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="1434.7617"
              y="818.55414"
-             id="tspan236"><tspan
+             id="tspan174"><tspan
                style="fill:#000000;stroke:none"
-               id="tspan235">Gebogen lijn vloeit NIET door</tspan></tspan></text><path
+               id="tspan173">Gebogen lijn vloeit NIET door</tspan></tspan></text><path
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
            d="m 90.960095,138.25409 c 0,28.42119 1.990996,30.5274 15.887275,30.5274"
            id="path68"
@@ -1631,9 +1699,9 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect69);display:inline;fill:#e0b6b6;fill-opacity:1;stroke:#000000;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="1434.7617"
              y="818.55414"
-             id="tspan238"><tspan
+             id="tspan176"><tspan
                style="fill:#000000;stroke:none"
-               id="tspan237">Verwijder lijn tussen 2 nodes</tspan></tspan></text><path
+               id="tspan175">Verwijder lijn tussen 2 nodes</tspan></tspan></text><path
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
            d="m 80.450499,138.25409 c 0,40.72648 2.552262,37.68118 11.022967,37.68118"
            id="path69"
@@ -1644,9 +1712,9 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect70);display:inline;fill:#e0b6b6;fill-opacity:1;stroke:#000000;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="1434.7617"
              y="818.55414"
-             id="tspan240"><tspan
+             id="tspan178"><tspan
                style="fill:#000000;stroke:none"
-               id="tspan239">Verbind 2 nodes met een lijn</tspan></tspan></text><path
+               id="tspan177">Verbind 2 nodes met een lijn</tspan></tspan></text><path
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
            d="m 67.947704,138.25409 c 0,41.75344 1.803907,44.85263 8.777903,44.85263"
            id="path70"
@@ -1657,9 +1725,9 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect71);display:inline;fill:#e0b6b6;fill-opacity:1;stroke:#000000;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="1434.7617"
              y="818.55414"
-             id="tspan242"><tspan
+             id="tspan180"><tspan
                style="fill:#000000;stroke:none"
-               id="tspan241">splits node</tspan></tspan></text><path
+               id="tspan179">splits node</tspan></tspan></text><path
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
            d="m 56.894509,138.25409 c 0,43.43724 1.803907,51.48048 6.719927,51.48048"
            id="path71"
@@ -1670,9 +1738,9 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect72);display:inline;fill:#e0b6b6;fill-opacity:1;stroke:#000000;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="1434.7617"
              y="818.55414"
-             id="tspan244"><tspan
+             id="tspan182"><tspan
                style="fill:#000000;stroke:none"
-               id="tspan243">las nodes aan elkaar</tspan></tspan></text></g></g></g><style
+               id="tspan181">las nodes aan elkaar</tspan></tspan></text></g></g></g><style
      type="text/css"
      id="style26">
 	.specularity {opacity:0.5;}
