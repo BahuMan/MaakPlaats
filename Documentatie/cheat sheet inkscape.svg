@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.5"
-     inkscape:cx="1305"
-     inkscape:cy="444"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="478.35774"
+     inkscape:cy="776.40325"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g11"
+     inkscape:current-layer="g52"
      showguides="true"
      showgrid="false"><inkscape:page
        x="0"
@@ -58,7 +58,15 @@
        height="297"
        id="page87"
        margin="0"
-       bleed="0" /></sodipodi:namedview><defs
+       bleed="0" /><sodipodi:guide
+       position="237.06666,137.19167"
+       orientation="1,0"
+       id="guide3"
+       inkscape:locked="false" /><sodipodi:guide
+       position="471.62138,255.9685"
+       orientation="1,0"
+       id="guide4"
+       inkscape:locked="false" /></sodipodi:namedview><defs
      id="defs1"><marker
        style="overflow:visible"
        id="ConcaveTriangle"
@@ -263,8 +271,8 @@
        id="rect44" /><rect
        x="141.07912"
        y="113.68512"
-       width="375.29786"
-       height="39.721304"
+       width="670.8685"
+       height="41.842624"
        id="rect52" /><rect
        x="324.61896"
        y="123.95787"
@@ -527,11 +535,11 @@
        inkscape:label="Cheat Sheet Inkscape"><tspan
          x="55.205078"
          y="88.014977"
-         id="tspan5"><tspan
+         id="tspan160"><tspan
            style="font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans'"
-           id="tspan1">Cheat Sheet Inkscape</tspan><tspan
+           id="tspan3">Cheat Sheet Inkscape</tspan><tspan
            style="font-size:26.6667px;baseline-shift:super"
-           id="tspan2">tm</tspan></tspan></text><g
+           id="tspan159">tm</tspan></tspan></text><g
        id="g5"
        inkscape:label="Chapter Werkblad grootte"
        transform="translate(0,-3.3313201)"><text
@@ -544,7 +552,7 @@
          inkscape:label="Werkblad grootte"><tspan
            x="141.08008"
            y="143.30621"
-           id="tspan6">Werkblad grootte</tspan></text><g
+           id="tspan161">Werkblad grootte</tspan></text><g
          id="g4"
          inkscape:label="number 1"
          transform="translate(0,-0.91947661)"><circle
@@ -572,11 +580,11 @@
          y="0"><tspan
            x="625.10547"
            y="138.76736"
-           id="tspan7">CTRL+D
+           id="tspan162">CTRL+D
 </tspan><tspan
            x="423.77475"
            y="158.76736"
-           id="tspan8">Bestand -&gt; Document Eigenschappen</tspan></text><text
+           id="tspan163">Bestand -&gt; Document Eigenschappen</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,13.179034)"
          id="text7"
@@ -584,11 +592,11 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan10">Kies een bestaand formaat zoals A4,
+           id="tspan164">Kies een bestaand formaat zoals A4,
 </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan11">of stel in op mm/cm
+           id="tspan165">of stel in op mm/cm
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,32.931461)"
@@ -599,7 +607,7 @@
          y="0"><tspan
            x="561.45444"
            y="138.76736"
-           id="tspan12">CTRL+muiswieltje</tspan></text><text
+           id="tspan166">CTRL+muiswieltje</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,30.527301)"
          id="text111"
@@ -607,7 +615,7 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan13">zoom in/uit
+           id="tspan167">zoom in/uit
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,44.296277)"
@@ -618,7 +626,7 @@
          y="0"><tspan
            x="480.22266"
            y="138.76736"
-           id="tspan14">middenste muisknop + slepen</tspan></text><text
+           id="tspan168">middenste muisknop + slepen</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,41.892117)"
          id="text113"
@@ -626,7 +634,7 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan15">navigeer door werkblad</tspan></text><path
+           id="tspan169">navigeer door werkblad</tspan></text><path
          style="fill:none;stroke:#000000;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          d="m 23.198995,63.190574 v 14.544768 l 3.461141,-2.899876 2.245593,5.200991 2.745052,-1.190625 -2.513542,-5.22552 4.795573,-0.363803 z"
          id="path5"
@@ -647,7 +655,7 @@
            inkscape:label="Werkblad grootte"><tspan
              x="141.08008"
              y="143.30621"
-             id="tspan17">Trace Bitmap</tspan></text><g
+             id="tspan170">Bitmap Overtrekken</tspan></text><g
            id="g88"
            inkscape:label="number 1"
            transform="translate(0,-0.91947661)"><circle
@@ -675,26 +683,26 @@
            y="0"><tspan
              x="328.94954"
              y="141.23578"
-             id="tspan18">1
+             id="tspan171">1
 </tspan><tspan
              x="327.09472"
              y="164.56916"
-             id="tspan19">2
+             id="tspan172">2
 </tspan><tspan
              x="326.74381"
              y="187.90253"
-             id="tspan20">3
+             id="tspan173">3
 </tspan><tspan
              x="326.56607"
              y="211.2359"
-             id="tspan22">4
+             id="tspan174">4
 </tspan><tspan
              x="326.94888"
              y="234.56928"
-             id="tspan23">5</tspan></text><g
+             id="tspan175">5</tspan></text><g
            id="g117"
            inkscape:label="number 7"
-           transform="matrix(0.44643828,0,0,0.44643828,129.51539,59.267546)"><circle
+           transform="matrix(0.44643828,0,0,0.44643828,153.72668,59.267546)"><circle
              style="fill:#00b0ff;fill-opacity:1;stroke:#000000;stroke-width:0.369775;stroke-dasharray:none;stroke-opacity:1"
              id="circle116"
              cx="18.194134"
@@ -717,25 +725,25 @@
            inkscape:label="uitleg"><tspan
              x="465.69727"
              y="150.14008"
-             id="tspan25">Importeer <tspan
+             id="tspan177">Importeer <tspan
    style="font-weight:bold"
-   id="tspan24">lijntekening</tspan> bitmap
+   id="tspan176">lijntekening</tspan> bitmap
 </tspan><tspan
              x="465.69727"
              y="173.47345"
-             id="tspan26">rechts-klik &quot;trace bitmap&quot;
+             id="tspan178">rechts-klik &quot;bitmap overtrekken&quot;
 </tspan><tspan
              x="465.69727"
              y="196.80683"
-             id="tspan27">single scan
+             id="tspan179">enkele scan
 </tspan><tspan
              x="465.69727"
              y="220.1402"
-             id="tspan28">detection-mode = &quot;centerline tracing&quot;
+             id="tspan180">detectie-modus = &quot;midellijn tracering&quot;
 </tspan><tspan
              x="465.69727"
              y="243.47357"
-             id="tspan30">corrigeer met node tool</tspan></text><g
+             id="tspan181">corrigeer met knooppunt tool -&gt; zie</tspan></text><g
            id="g116"
            inkscape:label="arrows n screenshot"
            transform="translate(0.280633,-53.366425)"><image
@@ -814,9 +822,9 @@
              id="text136"><tspan
                x="18.366388"
                y="39.460098"
-               id="tspan32"><tspan
+               id="tspan183"><tspan
                  style="stroke-width:0.6"
-                 id="tspan31">3</tspan></tspan></text></g><text
+                 id="tspan182">3</tspan></tspan></text></g><text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,-38.581228,96.13863)"
            id="text128"
@@ -826,27 +834,27 @@
            y="0"><tspan
              x="328.94954"
              y="141.23578"
-             id="tspan33">1
+             id="tspan184">1
 </tspan><tspan
              x="327.09472"
              y="164.56916"
-             id="tspan34">2
+             id="tspan185">2
 </tspan><tspan
              x="326.74381"
              y="187.90253"
-             id="tspan35">3
+             id="tspan186">3
 </tspan><tspan
              x="326.56607"
              y="211.2359"
-             id="tspan36">4
+             id="tspan187">4
 </tspan><tspan
              x="326.94888"
              y="234.56928"
-             id="tspan37">5
+             id="tspan188">5
 </tspan><tspan
              x="326.88052"
              y="257.90265"
-             id="tspan38">6</tspan></text><text
+             id="tspan189">6</tspan></text><text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,-66.156213,93.75859)"
            id="text133"
@@ -854,29 +862,29 @@
            inkscape:label="uitleg"><tspan
              x="465.69727"
              y="150.14008"
-             id="tspan40">Importeer <tspan
+             id="tspan191">Importeer <tspan
    style="font-weight:bold"
-   id="tspan39">silhouette</tspan> bitmap
+   id="tspan190">silhouette</tspan> bitmap
 </tspan><tspan
              x="465.69727"
              y="173.47345"
-             id="tspan41">rechts-klik &quot;trace bitmap&quot;
+             id="tspan192">rechts-klik &quot;bitmap overtrekken&quot;
 </tspan><tspan
              x="465.69727"
              y="196.80683"
-             id="tspan42">single scan
+             id="tspan193">enkele scan
 </tspan><tspan
              x="465.69727"
              y="220.1402"
-             id="tspan43">detection-mode = &quot;brightness cutoff&quot;
+             id="tspan194">detectie-modus = &quot;grenswaarde helderheid&quot;
 </tspan><tspan
              x="465.69727"
              y="243.47357"
-             id="tspan44">versleep &quot;Threshold&quot; &amp; Apply
+             id="tspan195">versleep &quot;drempelwaarde&quot; &amp; klik op &quot;toepassen&quot;
 </tspan><tspan
              x="465.69727"
              y="266.80695"
-             id="tspan45">Zie       om vulling te verwijderen en lijnkleur in te stellen</tspan></text></g><g
+             id="tspan196">Zie       om vulling te verwijderen en lijnkleur in te stellen</tspan></text></g><g
          id="g247"
          inkscape:label="omranding"><path
            style="display:inline;fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
@@ -897,23 +905,23 @@
            y="0"><tspan
              x="328.94954"
              y="141.23578"
-             id="tspan47">1
+             id="tspan197">1
 </tspan><tspan
              x="327.09472"
              y="164.56916"
-             id="tspan48">2
+             id="tspan198">2
 </tspan><tspan
              x="326.74381"
              y="187.90253"
-             id="tspan49">3
+             id="tspan199">3
 </tspan><tspan
              x="326.56607"
              y="211.2359"
-             id="tspan50">4
+             id="tspan200">4
 </tspan><tspan
              x="326.94888"
              y="234.56928"
-             id="tspan51">5</tspan></text><text
+             id="tspan201">5</tspan></text><text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,-66.289536,147.58341)"
            id="text246"
@@ -921,26 +929,26 @@
            inkscape:label="uitleg"><tspan
              x="465.69727"
              y="150.14008"
-             id="tspan52">Dupliceer je lijntekening
+             id="tspan202">Dupliceer je lijntekening
 </tspan><tspan
              x="465.69727"
              y="173.47345"
-             id="tspan53">Path -&gt; Outset creert een groter object met kleine gaatjes
+             id="tspan203">Pad -&gt; Verwijden creert een groter object met kleine gaatjes
 </tspan><tspan
              x="465.69727"
              y="196.80683"
-             id="tspan54">CTRL+SHIFT+K om gaatjes los te maken van de figuur
+             id="tspan204">CTRL+SHIFT+K om gaatjes los te maken van de figuur
 </tspan><tspan
              x="465.69727"
              y="220.1402"
-             id="tspan55">Klik op buitenste rand; die wil je houden
+             id="tspan205">Klik op buitenste rand; die wil je houden
 </tspan><tspan
              x="465.69727"
              y="243.47357"
-             id="tspan56">In het venster &quot;Layers and Objects&quot;, delete alle andere nieuw </tspan><tspan
+             id="tspan206">In het venster &quot;Lagen en Objecten&quot;, delete alle andere nieuw </tspan><tspan
              x="465.69727"
              y="266.80695"
-             id="tspan57">gecreeerde objecten (de gaatjes die je hebt losgemaakt)</tspan></text><path
+             id="tspan207">gecreeerde objecten (de gaatjes die je hebt losgemaakt)</tspan></text><path
            style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
            d="m 28.699219,185.78711 c -1.789976,0.0166 -3.01634,1.54574 -3.751504,2.98825 -1.149686,0.45523 -2.643333,0.50598 -2.384273,-1.13838 -0.07034,-2.19217 -3.256572,-2.80629 -4.015775,-1.11599 -0.973828,1.60842 -2.107083,8.37821 -3.142733,9.36438 -1.491656,1.42039 -3.984822,-2.46359 -6.1061059,-0.94787 1.4953389,1.31459 3.3438049,2.21047 4.6983659,3.68033 -1.847892,-0.65752 -3.804217,-1.3603 -5.7936606,-1.24044 0.163473,0.53237 2.4167676,1.50663 0.6255074,1.19115 -0.8541098,-0.0377 -3.0107114,0.38558 -1.1510861,0.89689 0.5633433,0.3819 3.3531673,0.54913 1.2433604,0.64742 -0.5851816,-0.054 -1.1854397,0.95286 -0.5421445,1.46388 -0.877205,0.16204 -0.8439466,1.42605 -0.6749596,1.47012 1.618414,-0.38948 3.418061,-1.15918 4.979161,-1.11262 -1.074914,0.40226 -3.4257174,1.82557 -2.9670672,2.4594 1.8794162,0.0939 3.9831312,-2.0535 5.4126862,-1.51766 0.447572,1.70626 3.393071,1.39207 2.857249,3.45223 0.436926,0.86617 -0.770309,2.28976 -0.169767,3.06214 0.395776,0.35067 0.626551,0.0698 1.091468,0.10227 1.272753,1.2666 0.105496,3.5066 1.046976,5.01506 0.492614,1.02985 1.65201,1.45272 2.092737,0.74566 0.258202,0.23691 0.563238,1.62324 -0.692577,1.4962 1.955492,0.86459 -1.633638,0.76563 -2.293024,1.02783 -1.200886,0.38125 -4.164868,0.11691 -4.275043,1.35622 1.632487,0.50833 3.315059,-0.16423 4.984468,-0.0474 6.395474,-0.18433 12.959383,0.84456 19.213595,-0.92409 2.019912,-0.5975 3.964766,-2.17062 4.120229,-4.41148 0.476018,-1.87885 0.910672,-3.77851 0.9956,-5.70805 -0.283474,-1.36652 -0.355214,-3.01943 -1.102573,-4.09622 -0.754574,-1.07859 -1.549379,-3.06015 -2.152141,-3.85635 -0.602761,-0.7962 -0.906336,-2.25533 -1.87943,-2.9042 -1.54357,-0.72437 -3.091441,-1.78316 -4.196648,-3.09032 -1.189285,-0.65647 -2.289249,-1.25236 -1.378961,-2.71032 0.369842,-2.70833 -1.749057,-5.84777 -4.69193,-5.59808 z"
            id="path247"
@@ -961,7 +969,7 @@
          inkscape:label="Werkblad grootte"><tspan
            x="141.08008"
            y="143.30621"
-           id="tspan58">Tekst</tspan></text><g
+           id="tspan208">Tekst</tspan></text><g
          id="g9"
          inkscape:label="number 1"
          transform="translate(0,-0.91947661)"><circle
@@ -989,11 +997,11 @@
          y="0"><tspan
            x="661.83984"
            y="138.76736"
-           id="tspan59">&quot;T&quot;
+           id="tspan209">&quot;T&quot;
 </tspan><tspan
            x="580.80597"
            y="158.76736"
-           id="tspan60">Klik op text tool</tspan></text><text
+           id="tspan210">Klik op text tool</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,0)"
          id="text11"
@@ -1001,22 +1009,22 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan61">sleep een rechthoek die groot genoeg is
+           id="tspan211">sleep een rechthoek die groot genoeg is
 </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan62">type je tekst
+           id="tspan212">type je tekst
 </tspan><tspan
            x="465.69727"
            y="196.80683"
-           id="tspan63">kies lettertype bovenaan
+           id="tspan213">kies lettertype bovenaan
 </tspan><tspan
            x="465.69727"
            y="220.1402"
-           id="tspan64">gebruik altijd tekst tool om je rechthoek te </tspan><tspan
+           id="tspan214">gebruik altijd tekst tool om je rechthoek te </tspan><tspan
            x="465.69727"
            y="243.47357"
-           id="tspan65">vegroten/verkleinen</tspan></text><text
+           id="tspan215">vegroten/verkleinen</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.50281734,0,0,0.13039721,-72.230997,20.900584)"
          id="text13"
@@ -1024,7 +1032,7 @@
          inkscape:label="resultaat"><tspan
            x="342.42578"
            y="365.18305"
-           id="tspan66">of je krijgt zo'n resultaat</tspan></text><text
+           id="tspan216">of je krijgt zo'n resultaat</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,43.3187)"
          id="text3"
@@ -1034,11 +1042,11 @@
          y="0"><tspan
            x="555.69922"
            y="138.76736"
-           id="tspan67">SHIFT + CTRL + C
+           id="tspan217">SHIFT + CTRL + C
 </tspan><tspan
-           x="533.39716"
+           x="519.28778"
            y="158.76736"
-           id="tspan68">Path -&gt; Object to Path</tspan></text><text
+           id="tspan218">Path -&gt; Object naar Pad</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,40.036975)"
          id="text14"
@@ -1046,10 +1054,19 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan69">Converteer de tekst naar vormen zodat de </tspan><tspan
+           id="tspan219">Converteer de tekst naar vormen zodat de </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan70">Brother cutter kan snijden</tspan></text></g><g
+           id="tspan220">Brother cutter kan snijden</tspan></text><image
+         width="13.108558"
+         height="13.108558"
+         preserveAspectRatio="none"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAYAAAA6RwvCAAACFElEQVR4nO2XS0sbURiG32luZFUL&#10;SQxZFWqLbRWqpulSWi9R03bVOOPkKvQXKP4VUREURfCC4D0aBY17jWsVXWaRBNGFQjBRj+DImUzi&#10;JJlRF/Os5nvPzJmHOfMNc/TvP3y6wQvzw+WCHq8ETUSMJiJGdZGbuzskh86E2vb/HV5ERC6aiBjZ&#10;IiaTCeFQgMomJ6dweXUFJZAt8vePBwP9fVR2fn6B6ZlZKMEbuSf6eD4vCwX9YBgGSiBLxOlsQt3X&#10;L3n5x5oauL47oQSyREIBf8GxYJExRUXs1dVoa20R6nQ6jaPjY6FubfkFh8OBSnlSpKeHhV7/+E6v&#10;RdYRiWwItU6nA8+xqJSiIkajEaz3H5WtrEWwHo1SGcd2w2w2QzWR354uWCwWoU4kEojHD3B4eIST&#10;k1Mhr6p6C09XJ1QTCfjoll29exq5XO7+OLq5RY2RVlZFpLHhG+rr66iMLMsD4uX5XFuLpsYGlEvB&#10;L6tUWy7Mz6EY5Jq9/TjKQfKJ2GxWuNvbUCod7nbY7XaUg6QIz3EwGAwoFdLKXLcX5ZC3NESAFU02&#10;Nj6B7VhMcoKfzc3oDQeFmmO9GBwaRiaTQUUipA2t1seWzWazGBkdRTKZkpyAtHLAzwsfPdLunR1u&#10;LC4toxTylibo91H19k6soAQhlUphJ7ZLZb3hEEqFUXvLKefnWdtySqG6CHNdeC/zrCJy0UTE3AJf&#10;RYXyU9zgKwAAAABJRU5ErkJggg==&#10;"
+         id="image1-62"
+         x="34.233459"
+         y="51.738136"
+         style="stroke-width:0.686256;image-rendering:pixelated"
+         inkscape:label="Text tool" /></g><g
        id="g18"
        inkscape:label="Chapter Kleuren"
        transform="translate(216.95833,-13.01903)"><text
@@ -1062,7 +1079,7 @@
          inkscape:label="Werkblad grootte"><tspan
            x="141.08008"
            y="143.30621"
-           id="tspan71">Kleuren</tspan></text><g
+           id="tspan221">Kleuren</tspan></text><g
          id="g16"
          inkscape:label="number 1"
          transform="translate(0,-0.91947661)"><circle
@@ -1090,11 +1107,11 @@
          y="0"><tspan
            x="576.05078"
            y="138.76736"
-           id="tspan72">SHIFT+CTRL+F
+           id="tspan222">SHIFT+CTRL+F
 </tspan><tspan
-           x="529.0065"
+           x="511.10025"
            y="158.76736"
-           id="tspan73">Object-&gt;Fill and Stroke</tspan></text><text
+           id="tspan223">Object-&gt;Vulling en Streek</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,6.1501294)"
          id="text18"
@@ -1102,19 +1119,19 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan74">Kies 
+           id="tspan224">Kies 
 </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan75">* vulling kleur (niet voor lasercutter)
+           id="tspan225">* vulling kleur (niet voor lasercutter)
 </tspan><tspan
            x="465.69727"
            y="196.80683"
-           id="tspan76">* lijnen kleur
+           id="tspan226">* lijnen kleur
 </tspan><tspan
            x="465.69727"
            y="220.1402"
-           id="tspan77">* lijn dikte is onbelangrijk voor laser</tspan></text><g
+           id="tspan227">* lijn dikte is onbelangrijk voor laser</tspan></text><g
          id="g261"
          inkscape:label="laser"
          transform="translate(12.347852,-139.84752)"
@@ -1195,27 +1212,27 @@
            inkscape:label="uitleg"><tspan
              x="465.69727"
              y="150.14008"
-             id="tspan78">Kies RGB 
+             id="tspan228">Kies RGB 
 </tspan><tspan
              x="465.69727"
              y="173.47345"
-             id="tspan80">* <tspan
+             id="tspan230">* <tspan
    style="fill:#ff0000"
-   id="tspan79">puur rood voor uitsnijden</tspan>
+   id="tspan229">puur rood voor uitsnijden</tspan>
 </tspan><tspan
              x="465.69727"
              y="196.80683"
-             id="tspan82">* <tspan
+             id="tspan232">* <tspan
    style="fill:#0000ff"
-   id="tspan81">puur blauw voor graveren</tspan>
+   id="tspan231">puur blauw voor graveren</tspan>
 </tspan><tspan
              x="465.69727"
              y="220.1402"
-             id="tspan83">* zwart om vlak te vullen (traaag!)
+             id="tspan233">* zwart om vlak te vullen (traaag!)
 </tspan><tspan
              x="465.69727"
              y="243.47357"
-             id="tspan84">* &quot;A&quot; = altijd 100%</tspan></text></g></g><g
+             id="tspan234">* &quot;A&quot; = altijd 100%</tspan></text></g></g><g
        id="g23"
        inkscape:label="Chapter Objecten schikken"
        transform="translate(216.95833,99.69347)"><text
@@ -1228,7 +1245,7 @@
          inkscape:label="Werkblad grootte"><tspan
            x="141.08008"
            y="143.30621"
-           id="tspan85">Objecten schikken</tspan></text><g
+           id="tspan235">Objecten schikken</tspan></text><g
          id="g21"
          inkscape:label="number 1"
          transform="translate(0,-0.91947661)"><circle
@@ -1256,11 +1273,11 @@
          y="0"><tspan
            x="576.37891"
            y="138.76736"
-           id="tspan86">SHIFT+CTRL+L
+           id="tspan236">SHIFT+CTRL+L
 </tspan><tspan
-           x="485.13931"
+           x="487.53516"
            y="158.76736"
-           id="tspan87">Object -&gt; Layers and Objects</tspan></text><text
+           id="tspan237">Object -&gt; Lagen en Objecten</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,13.20315)"
          id="text23"
@@ -1268,10 +1285,10 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan89">Laser cutter &amp; borduurmachine behandelt </tspan><tspan
+           id="tspan238">Laser cutter &amp; borduurmachine behandelt </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan90">objecten van onder naar boven
+           id="tspan239">objecten van onder naar boven
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-74.331661,37.327185)"
@@ -1282,15 +1299,15 @@
          y="0"><tspan
            x="642.14258"
            y="138.76736"
-           id="tspan91">&quot;S&quot;
+           id="tspan240">&quot;S&quot;
 </tspan><tspan
            x="498.30405"
            y="158.76736"
-           id="tspan92">Klik op pijltje links-boven
+           id="tspan241">Klik op pijltje links-boven
 </tspan><tspan
            x="521.02802"
            y="178.76736"
-           id="tspan93">PageUp / PageDown</tspan></text><text
+           id="tspan242">PageUp / PageDown</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,34.947141)"
          id="text26"
@@ -1298,14 +1315,14 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan94">Objecten slepen/draaien/rekken
+           id="tspan243">Objecten slepen/draaien/rekken
 </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan95">Bovenaan verschijnen ikoontjes om objecten </tspan><tspan
+           id="tspan244">Bovenaan verschijnen ikoontjes om objecten </tspan><tspan
            x="465.69727"
            y="196.80683"
-           id="tspan96">op/onder elkaar te leggen, spiegelen, draaien
+           id="tspan245">op/onder elkaar te leggen, spiegelen, draaien
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,62.151575)"
@@ -1316,11 +1333,11 @@
          y="0"><tspan
            x="578.38672"
            y="138.76736"
-           id="tspan97">CTRL+SHIFT-A
+           id="tspan246">CTRL+SHIFT-A
 </tspan><tspan
-           x="484.2435"
+           x="479.18878"
            y="158.76736"
-           id="tspan98">Object -&gt; Align and Distribute</tspan></text><text
+           id="tspan247">Object -&gt; Uitlijnen en Verdelen</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,59.771531)"
          id="text41"
@@ -1328,15 +1345,15 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan99">LET OP:
+           id="tspan248">LET OP:
 </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan100">- &quot;move/align selection as group&quot;
+           id="tspan249">- &quot;selectie als groep verplaatsen/uitlijnen&quot;
 </tspan><tspan
            x="465.69727"
            y="196.80683"
-           id="tspan101">- &quot;relative to:&quot; page/selection</tspan></text><text
+           id="tspan250">- &quot;relatief aan:&quot; pagina/selectie gebied</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,111.50421)"
          id="text42"
@@ -1346,11 +1363,11 @@
          y="0"><tspan
            x="658.26172"
            y="138.76736"
-           id="tspan102">&quot;%&quot;
+           id="tspan251">&quot;%&quot;
 </tspan><tspan
            x="439.99869"
            y="158.76736"
-           id="tspan103">Klik op magneet ikoon rechts-boven</tspan></text><text
+           id="tspan252">Klik op magneet ikoon rechts-boven</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,109.12416)"
          id="text43"
@@ -1358,7 +1375,7 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan104">&quot;snap&quot;: objecten klikken aan elkaar
+           id="tspan253">&quot;kleven&quot;: objecten klikken aan elkaar
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,86.952679)"
@@ -1369,7 +1386,7 @@
          y="0"><tspan
            x="582.20963"
            y="138.76736"
-           id="tspan105">CTRL + slepen</tspan></text><text
+           id="tspan254">CTRL + slepen</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,84.572629)"
          id="text60"
@@ -1377,7 +1394,7 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan106">Sleep in een rechte lijn (hor / vert)
+           id="tspan255">Sleep in een rechte lijn (hor / vert)
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,132.15882)"
@@ -1388,7 +1405,7 @@
          y="0"><tspan
            x="618.98047"
            y="138.76736"
-           id="tspan107">hulplijnen</tspan></text><text
+           id="tspan256">hulplijnen</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,129.77877)"
          id="text12"
@@ -1396,10 +1413,10 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan108">Sleep van de rand (met meetlat) </tspan><tspan
+           id="tspan257">Sleep van de rand (met meetlat) </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan109">naar het midden
+           id="tspan261">naar het midden
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,93.699554)"
@@ -1410,7 +1427,7 @@
          y="0"><tspan
            x="579.49347"
            y="138.76736"
-           id="tspan110">CTRL + roteren</tspan></text><text
+           id="tspan262">CTRL + roteren</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,91.319504)"
          id="text24"
@@ -1418,7 +1435,25 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan111">Draai per 15 graden</tspan></text></g><g
+           id="tspan263">Draai per 15 graden</tspan></text><image
+         width="20.769791"
+         height="12.217525"
+         preserveAspectRatio="none"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAeCAYAAACBkybCAAABX0lEQVR4nO2Xz0rDQBCHf5Veklv+&#10;KLZeBEXBd+hdBZukz+BN8eaLiN58hjZNLb6JIHjzUBWb2CSkl0TN5BC8KGsodBr2g4XdEIZ8zOxk&#10;t7m9s/eFmtBEjZAyXJEyXBGWebsNsHGqFfOnx4df39vdP8CykGXGlUoyiy6li/MzTF4mGI/vkczn&#10;xTNFUXB8dIitdhtX1zdCcdbAAN/30dpswXEsqLkEiTi2VYj4QSAcp1Jm/moAPxHNoOuN0HNsGLpR&#10;CBE0D6MQ3ugOorDITBzH6A9cfMxmhQSNKIowcIcIw1A4DpsG8JllyLK0XKf5Ok0z/AcWDUBVVfTy&#10;PaLrerlHdE0r9g1lLEkSoTgsyszqnpQi9PE0aE5CttUVjrPQBlA1Y+umiffpFO7QK7NAQiRiGoZw&#10;nIbo5UzkOLPMowxRqxNAQ16bmSJluCJluNLo9F9Xups9X3bKuSwzrsifJle+ARQgd/+kBOVcAAAA&#10;AElFTkSuQmCC&#10;"
+         id="image1-0"
+         x="20.10833"
+         y="96.532204"
+         style="stroke-width:0.649682;image-rendering:pixelated"
+         inkscape:label="Align icon" /><image
+         width="20.505207"
+         height="11.435597"
+         preserveAspectRatio="none"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAAdCAYAAADl208VAAABjElEQVR4nO2XPUvDQBjH/0qXhkLT&#10;JoIdBEHwI1RE/AI6tKmKurmrdXLv7lbt7qROtg76BUS/iGuTSlLSJVHzHKRQh3DXNnoJ+cFB7oXj&#10;fnnuNbe6tv6NlLBRrSKHlJEJyU4mJDtCQp9bJyxFob7dsvRfcAslQYZY5GkUt0zz7BQH+w0o+fy4&#10;LB987zUMVicCV4Ti/vOWZaGyXIFh1NDtPoFOeqNeg65psAYDob4WZLgpFAoFNIw61GIRpmWyMq2s&#10;wXZsPAaCtm1z9TP1TWHnogV9czeyTf/9GS/tFngYDofBwHtMikQIx3HQ7fHLhAgLzVsm5Mv34fve&#10;OO8Fec/zIQrXphASl4yiKOPo0JqhVFJVto6oTgQp1tDx0SGWdJ2J0NQjSLBcKqFvmri7f+Dqh9aQ&#10;UITigmRo4CTjui5L9E1ltNOJMFOE6IxonkefE+2bDtrXHfwFM72HZJMJmUpIVhlCik1hXmRP8CSQ&#10;CcnOhNDK1SuSxsfl9kQ+m3KyMyH0O3xJY+SO0hUhusz+AN7Opyu6U7AbAAAAAElFTkSuQmCC&#10;"
+         id="image1-70"
+         x="20.10833"
+         y="48.679264"
+         style="stroke-width:0.670968;image-rendering:pixelated"
+         inkscape:label="Layers and Objects" /></g><g
        id="g33"
        inkscape:label="Chapter Objecten combineren"
        transform="translate(437.38793,38.298249)"><text
@@ -1431,7 +1466,7 @@
          inkscape:label="Werkblad grootte"><tspan
            x="141.08008"
            y="143.30621"
-           id="tspan112">Objecten combineren</tspan></text><g
+           id="tspan264">Objecten combineren</tspan></text><g
          id="g29"
          inkscape:label="number 1"
          transform="translate(0,-0.91947661)"><circle
@@ -1459,11 +1494,11 @@
          y="0"><tspan
            x="624.53516"
            y="138.76736"
-           id="tspan113">CTRL+G
+           id="tspan265">CTRL+G
 </tspan><tspan
            x="573.41016"
            y="158.76736"
-           id="tspan118">SHIFT+CTRL+G
+           id="tspan266">SHIFT+CTRL+G
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,13.097824)"
@@ -1472,11 +1507,11 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan119">Groeperen brengt structuur in je document
+           id="tspan267">Groeperen brengt structuur in je document
 </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan120">dubbel-klik om in groep &quot;af te dalen&quot;
+           id="tspan268">dubbel-klik om in groep &quot;af te dalen&quot;
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,32.434787)"
@@ -1487,11 +1522,11 @@
          y="0"><tspan
            x="626.24609"
            y="138.76736"
-           id="tspan121">CTRL+K
+           id="tspan269">CTRL+K
 </tspan><tspan
            x="575.12109"
            y="158.76736"
-           id="tspan122">SHIFT+CTRL+K</tspan></text><text
+           id="tspan270">SHIFT+CTRL+K</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,29.949417)"
          id="text33"
@@ -1499,11 +1534,11 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan123">Combineer meerdere vormen tot 1 object
+           id="tspan271">Combineer meerdere vormen tot 1 object
 </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan124">Splits 1 object in alle aparte vormen</tspan></text><text
+           id="tspan272">Splits 1 object in alle aparte vormen</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-68.352181,50.01118)"
          id="text38"
@@ -1511,21 +1546,21 @@
          inkscape:label="hotkeys"
          x="358.86145"
          y="0"><tspan
-           x="547.61069"
+           x="516.10806"
            y="138.76736"
-           id="tspan125">Path -&gt; Union
+           id="tspan273">Path -&gt; Vereniging
 </tspan><tspan
-           x="519.04819"
+           x="534.59766"
            y="158.76736"
-           id="tspan126">Path -&gt; Difference
+           id="tspan274">Path -&gt; Verschil
 </tspan><tspan
-           x="509.20444"
+           x="518.18881"
            y="178.76736"
-           id="tspan127">Path -&gt; Intersection
+           id="tspan275">Path -&gt; Intersectie
 </tspan><tspan
-           x="522.89453"
+           x="521.21487"
            y="198.76736"
-           id="tspan128">Path -&gt; Exclusion</tspan></text><text
+           id="tspan276">Path -&gt; Uitsluiting</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,47.631136)"
          id="text39"
@@ -1533,11 +1568,11 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan129">Smelt meerdere vormen samen.
+           id="tspan277">Smelt meerdere vormen samen.
 </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan130">Handig voor de &quot;node tool straks</tspan></text></g><g
+           id="tspan278">Handig voor de node tool straks</tspan></text></g><g
        id="g52"
        inkscape:label="Chapter Objecten vervormen"
        transform="translate(437.38793,101.51586)"><text
@@ -1550,7 +1585,7 @@
          inkscape:label="Werkblad grootte"><tspan
            x="141.08008"
            y="143.30621"
-           id="tspan131">Objecten vervormen</tspan></text><g
+           id="tspan279">Objecten vervormen (Knooppunt tool)</tspan></text><g
          id="g46"
          inkscape:label="number 7"
          transform="translate(0,9.7445775)"><circle
@@ -1578,11 +1613,11 @@
          y="0"><tspan
            x="661.47266"
            y="138.76736"
-           id="tspan132">&quot;B&quot;
+           id="tspan280">&quot;B&quot;
 </tspan><tspan
            x="579.91797"
            y="158.76736"
-           id="tspan133">Klik op pen tool</tspan></text><text
+           id="tspan281">Klik op pen tool</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,24.802647)"
          id="text48"
@@ -1590,17 +1625,17 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan134">Klik meermaals op pagine om gebroken </tspan><tspan
+           id="tspan282">Klik meermaals op pagine om gebroken </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan135">rechte lijnen te tekenen
+           id="tspan283">rechte lijnen te tekenen
 </tspan><tspan
            x="465.69727"
            y="196.80683"
-           id="tspan136">(je kan slepen om gebogen lijnen te tekenen, </tspan><tspan
+           id="tspan284">(je kan slepen om gebogen lijnen te tekenen, </tspan><tspan
            x="465.69727"
            y="220.1402"
-           id="tspan137">maar dat is niet nodig)
+           id="tspan285">maar dat is niet nodig)
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,74.261132)"
@@ -1611,11 +1646,11 @@
          y="0"><tspan
            x="660.13672"
            y="138.76736"
-           id="tspan138">&quot;N&quot;
+           id="tspan286">&quot;N&quot;
 </tspan><tspan
-           x="571.32422"
+           x="520.60547"
            y="158.76736"
-           id="tspan139">Klik op node tool</tspan></text><text
+           id="tspan287">Klik op &quot;knooppunt&quot; tool</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,71.881088)"
          id="text62"
@@ -1623,7 +1658,7 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan140">Hiermee kan je rechte lijnen &quot;krom&quot; trekken</tspan></text><text
+           id="tspan288">Hiermee kan je rechte lijnen &quot;krom&quot; trekken</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-79.586636,56.449109)"
          id="text63"
@@ -1633,11 +1668,11 @@
          y="0"><tspan
            x="576.76172"
            y="138.76736"
-           id="tspan141">SHIFT-CTRL+C
+           id="tspan289">SHIFT-CTRL+C
 </tspan><tspan
-           x="533.39716"
+           x="519.28778"
            y="158.76736"
-           id="tspan142">Path -&gt; Object to Path</tspan></text><text
+           id="tspan290">Path -&gt; Object naar Pad</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-17.938793,54.069065)"
          id="text64"
@@ -1645,10 +1680,10 @@
          inkscape:label="uitleg"><tspan
            x="465.69727"
            y="150.14008"
-           id="tspan143">Vanaf nu kan je de geselecteerde vorm (of </tspan><tspan
+           id="tspan291">Vanaf nu kan je de geselecteerde vorm (of </tspan><tspan
            x="465.69727"
            y="173.47345"
-           id="tspan144">tekst) veranderen met de node-tool
+           id="tspan292">tekst) veranderen met de node-tool
 </tspan></text><g
          id="g262"
          inkscape:label="example curve handles"><path
@@ -1695,9 +1730,9 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect66);display:inline;fill:#e0b6b6;fill-opacity:1;stroke:#000000;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="1434.7617"
              y="818.55414"
-             id="tspan146"><tspan
+             id="tspan294"><tspan
                style="fill:#000000;stroke:none"
-               id="tspan145">Maak gebogen lijn recht</tspan></tspan></text><path
+               id="tspan293">Maak gebogen lijn recht</tspan></tspan></text><path
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
            d="m 126.37576,138.25409 c 0,18.94008 1.42973,16.83095 6.34575,16.83095"
            id="path66"
@@ -1708,9 +1743,9 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect67);display:inline;fill:#e0b6b6;fill-opacity:1;stroke:#000000;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="1434.7617"
              y="818.55414"
-             id="tspan148"><tspan
+             id="tspan296"><tspan
                style="fill:#000000;stroke:none"
-               id="tspan147">Gebogen lijn vloeit mooi door</tspan></tspan></text><path
+               id="tspan295">Gebogen lijn vloeit mooi door</tspan></tspan></text><path
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
            d="m 103.82529,138.25409 c 0,24.96208 2.36517,23.55482 15.51309,23.55482"
            id="path67"
@@ -1721,9 +1756,9 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect68);display:inline;fill:#e0b6b6;fill-opacity:1;stroke:#000000;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="1434.7617"
              y="818.55414"
-             id="tspan150"><tspan
+             id="tspan298"><tspan
                style="fill:#000000;stroke:none"
-               id="tspan149">Gebogen lijn vloeit NIET door</tspan></tspan></text><path
+               id="tspan297">Gebogen lijn vloeit NIET door</tspan></tspan></text><path
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
            d="m 90.960095,138.25409 c 0,28.42119 1.990996,30.5274 15.887275,30.5274"
            id="path68"
@@ -1734,9 +1769,9 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect69);display:inline;fill:#e0b6b6;fill-opacity:1;stroke:#000000;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="1434.7617"
              y="818.55414"
-             id="tspan152"><tspan
+             id="tspan300"><tspan
                style="fill:#000000;stroke:none"
-               id="tspan151">Verwijder lijn tussen 2 nodes</tspan></tspan></text><path
+               id="tspan299">Verwijder lijn tussen 2 nodes</tspan></tspan></text><path
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
            d="m 80.450499,138.25409 c 0,40.72648 2.552262,37.68118 11.022967,37.68118"
            id="path69"
@@ -1747,9 +1782,9 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect70);display:inline;fill:#e0b6b6;fill-opacity:1;stroke:#000000;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="1434.7617"
              y="818.55414"
-             id="tspan154"><tspan
+             id="tspan302"><tspan
                style="fill:#000000;stroke:none"
-               id="tspan153">Verbind 2 nodes met een lijn</tspan></tspan></text><path
+               id="tspan301">Verbind 2 nodes met een lijn</tspan></tspan></text><path
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
            d="m 67.947704,138.25409 c 0,41.75344 1.803907,44.85263 8.777903,44.85263"
            id="path70"
@@ -1760,9 +1795,9 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect71);display:inline;fill:#e0b6b6;fill-opacity:1;stroke:#000000;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="1434.7617"
              y="818.55414"
-             id="tspan156"><tspan
+             id="tspan304"><tspan
                style="fill:#000000;stroke:none"
-               id="tspan155">splits node</tspan></tspan></text><path
+               id="tspan303">splits node</tspan></tspan></text><path
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
            d="m 56.894509,138.25409 c 0,43.43724 1.803907,51.48048 6.719927,51.48048"
            id="path71"
@@ -1773,9 +1808,27 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect72);display:inline;fill:#e0b6b6;fill-opacity:1;stroke:#000000;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="1434.7617"
              y="818.55414"
-             id="tspan158"><tspan
+             id="tspan306"><tspan
                style="fill:#000000;stroke:none"
-               id="tspan157">las nodes aan elkaar</tspan></tspan></text></g></g></g><style
+               id="tspan305">las nodes aan elkaar</tspan></tspan></text></g><image
+         width="13.917965"
+         height="13.020033"
+         preserveAspectRatio="none"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAdCAYAAABSZrcyAAAB0klEQVR4nO2WS0sCURiG39FhLBfq&#10;WIYUdLUWXaCWQfQTqn1E/YvosulKRD8jzalwGUElEkErJRdF4djOEC8TuPCKmjNQIDp4Zpx043MW&#10;B+acw8PM+Xi/oYfHJspoEzTaSEeuGTqdDizLgrVY0N3dBcZggN8fwL/JzWYTxh0OjI6MwGazQa/X&#10;V62rkvMfb2jE5tYOBvr7Ua6MaDQKfyCAZFJAUhCQzWSQy+dlzzb95kajEV6fDzwfRjabVXS2afm5&#10;04VyWV1UEMvnFxaRr3xChmHw/PT491ytWJFcEL5RLBZriqkZiOWlUqlqbqk89P4KrenEaw0URWH/&#10;8FiqZqfrQtO7/kUnt2C322Exm/ESDBKLZ2amoQRZuWNsVIrMcPgTpHiuOJydnsBqtRLtl5UPDQ5K&#10;WZ1Op0GKeFUry0u4u73Bxvpaw0yoK6dpGqyVRSTyBTWIXW53ewueaw5zs7NQJO/t6QFVGfFEAs0w&#10;NTmJS7dT9irqVrvJZJJmMVLVUCgUcP/gRSjEI8TzUsdLpVJkcoOBkeZMpR+rYe/gCG7usuG+unKx&#10;c4nkcjko5cLNEYlFKC3/2684F1bXNqTW23J5X58NsViceL+m2a5ErLlcKW2V/wBitqNEPIorGQAA&#10;AABJRU5ErkJggg==&#10;"
+         id="image1"
+         x="34.233448"
+         y="105.58806"
+         style="stroke-width:0.589316;image-rendering:pixelated"
+         inkscape:label="Node Tool" /><image
+         width="14.789645"
+         height="15.634768"
+         preserveAspectRatio="none"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAADzUlEQVR4nO2X2U8TURSHf1OKbVHA&#10;IAZSNrcom8YVcEEsrkEWN9TEqBGJf4JGjQ8aE43G9U1jVFCJJm5BpRSxYHEFBVwikrhCQEEIS4BC&#10;O6XOvU0Hu0+BRh74nnpmbu98vffcc6biSVOnG/GfiY+Lw+vycogxghiVccTIljF6GdGd0Yu+OB0Y&#10;AwOpRgKfIgl3Ax7HRoaI9KT08nFXZg8YHSArkbiaCz4yGXx9fSGRSlFXVwd3sZHpS9DZDOrlrtmT&#10;EYvFiImORmTkDESEh8PPz5de17MsDh85iiHLMKydUXrGRiJxyWIkJMTD2N+Pms+1KCgsRFNTE9ra&#10;2sGy9iYZhAzJka5NWotrsrIx/OfwsDBkZm6E0WiEUqnCh48fYTAYMBzYyPiopICOgTZdS1dk3G0Z&#10;JK9NMvPmzkF6WhpevnqF4ifqQa+AYBlyanzUErDTWDDtIl5k/ry5nEgq7t3PR1V1NTyBSMggkpxp&#10;qal48LBAsAjJq+zdWYiKjIRQXBY9Mun6dRl0ayrevIEQyHfOnTmF1atW0vhTTQ3OnD2PktKnzr/n&#10;Yl6sWJ4MhjtMJEdcERERgeWKZUhdm4JZs2by16OjorB/396hyXhzvzA+bgHybt6ym6xeXl7cNsxA&#10;skKB5GQFYmOiHc41ZcpkzJk92+k2O5UJDg6mdePLl6829xTcCpw8fgzjx/tDKApFklMZpwk8cWIg&#10;yisqaE2xZtOG9XZFWlpa8Jsrfta8razChYuX4Azb3pRu6kv94cAv/ybUTqqFNqgXY/Ol/BgZ14OW&#10;Ji7hY/JwlaoIqqJi7qGVCAoKQt61HISGhtD7P378RFb2HnR3d8NNmYHq+w3fAdOBsJBJWppIhcwc&#10;OHgImrJnfNzY2Mhtbxsv80ipdCliV0YIq1ausIjr6ustYtIyYmNj+FitLoUQ3Jbx9vaGYlkSH7e1&#10;t6OhodFiTErKGq4cmJpra2sr7V8ekVm0MIG+s5hFtu/cBb1eT+OAgACEhYYiIz2NH1/6VIN+rrN7&#10;RMZcVc0in7nXh5AQOXKvXqZtwxp1SSmEYiMzNt+UmKzcABHLQNQ8cPpJkSMVuaOjE7uysqmIXC7H&#10;tZwrNE+s0el0ePb8BYYgI3U4mHRuRiTCth07+RW5nnuVbs2/kPebyqoq3Ll7X9ApcijjDJIv1iti&#10;FiEC1e/eQ8m98RUoC9Hc/Afu4pZM7vU8ejrIitzIzUFg4AQ8Ln7CFbvHNDc6OzsxFNySISL+/n7Y&#10;umUzjp84CY2mDD1aLYYLt08TSd5Tp8/CE4z+vXXEqIwjRmUcMaJk/gJUjGOc2gNmqAAAAABJRU5E&#10;rkJggg==&#10;"
+         id="image1-1"
+         x="34.233448"
+         y="59.974659"
+         style="stroke-width:0.626142;image-rendering:pixelated"
+         inkscape:label="brush" /></g></g><style
      type="text/css"
      id="style26">
 	.specularity {opacity:0.5;}
