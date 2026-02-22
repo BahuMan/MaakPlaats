@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (unknown)"
+   sodipodi:docname="cheat sheet Lasercutter.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#d5d5d5"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.0649972"
+     inkscape:cx="527.60362"
+     inkscape:cy="700.72734"
+     inkscape:window-width="2560"
+     inkscape:window-height="1368"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g21" />
+  <defs
+     id="defs1">
+    <rect
+       x="108.47472"
+       y="73.607848"
+       width="552.05886"
+       height="130.75078"
+       id="rect1" />
+    <rect
+       x="55.205887"
+       y="43.583595"
+       width="568.5238"
+       height="80.38752"
+       id="rect1-3" />
+    <rect
+       x="141.07912"
+       y="113.68512"
+       width="402.69186"
+       height="64.375908"
+       id="rect5" />
+    <rect
+       x="324.61896"
+       y="123.95787"
+       width="358.86145"
+       height="58.212261"
+       id="rect6" />
+    <rect
+       x="465.69809"
+       y="132.86092"
+       width="315.71591"
+       height="69.169868"
+       id="rect7" />
+    <rect
+       x="324.61896"
+       y="123.95787"
+       width="358.86145"
+       height="58.212261"
+       id="rect111" />
+    <rect
+       x="465.69809"
+       y="132.86092"
+       width="315.71591"
+       height="69.169868"
+       id="rect112" />
+    <rect
+       x="324.61896"
+       y="123.95787"
+       width="358.86145"
+       height="58.212261"
+       id="rect113" />
+    <rect
+       x="465.69809"
+       y="132.86092"
+       width="315.71591"
+       height="69.169868"
+       id="rect114" />
+    <rect
+       x="324.61896"
+       y="123.95787"
+       width="358.86145"
+       height="58.212261"
+       id="rect3" />
+    <rect
+       x="465.69809"
+       y="132.86092"
+       width="315.71591"
+       height="69.169868"
+       id="rect4" />
+    <rect
+       x="141.07912"
+       y="113.68512"
+       width="402.69186"
+       height="64.375908"
+       id="rect21" />
+    <rect
+       x="324.61896"
+       y="123.95787"
+       width="358.86145"
+       height="58.212261"
+       id="rect22" />
+    <rect
+       x="465.69809"
+       y="132.86092"
+       width="315.71591"
+       height="69.169868"
+       id="rect23" />
+    <rect
+       x="324.61896"
+       y="123.95787"
+       width="358.86145"
+       height="58.212261"
+       id="rect24" />
+    <rect
+       x="465.69809"
+       y="132.86092"
+       width="315.71591"
+       height="69.169868"
+       id="rect25" />
+    <rect
+       x="324.61896"
+       y="123.95787"
+       width="358.86145"
+       height="58.212261"
+       id="rect26" />
+    <rect
+       x="465.69809"
+       y="132.86092"
+       width="315.71591"
+       height="69.169868"
+       id="rect27" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,10.81764,-1.9824378)"
+       id="text1-2"
+       style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="Cheat Sheet Inkscape"><tspan
+         x="55.205078"
+         y="88.014977"
+         id="tspan2"><tspan
+           style="font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans'"
+           id="tspan1">Cheat Sheet Lasercutter</tspan></tspan></text>
+    <g
+       id="g5"
+       inkscape:label="Chapter Werkblad grootte"
+       transform="translate(6.7970054,1.6410918)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-12.049795,1.1862349)"
+         id="text5"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans Bold Italic';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"
+         x="2.006836e-06"
+         y="0"
+         inkscape:label="Werkblad grootte"><tspan
+           x="141.08008"
+           y="143.30621"
+           id="tspan5">Voorbereiding in Inkscape</tspan></text>
+      <g
+         id="g4"
+         inkscape:label="number 1"
+         transform="translate(0,-0.91947661)">
+        <circle
+           style="fill:#00b0ff;fill-opacity:1;stroke:#000000;stroke-width:0.369775;stroke-dasharray:none;stroke-opacity:1"
+           id="path2"
+           cx="18.194134"
+           cy="36.893501"
+           r="5.0536871" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1"
+           x="18.366388"
+           y="39.460098"
+           id="text4"><tspan
+             sodipodi:role="line"
+             id="tspan4"
+             style="font-size:7.05556px;stroke:none;stroke-width:0.6"
+             x="18.366388"
+             y="39.460098">1</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-79.586636,15.583194)"
+         id="text6"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans Light Italic';text-align:end;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6);display:inline;fill:#373737;fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="hotkeys"
+         x="358.86145"
+         y="0"><tspan
+           x="625.10547"
+           y="138.76736"
+           id="tspan6">CTRL+D
+</tspan><tspan
+           x="423.77475"
+           y="158.76736"
+           id="tspan22">Bestand -&gt; Document Eigenschappen</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-17.938793,13.179034)"
+         id="text7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="uitleg"><tspan
+           x="465.69727"
+           y="150.14008"
+           id="tspan23">Stel de afmetingen van je document </tspan><tspan
+           x="465.69727"
+           y="173.47345"
+           id="tspan24">gelijk aan de plaat die je wil snijden.
+</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-79.586636,32.931461)"
+         id="text110"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans Light Italic';text-align:end;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect111);display:inline;fill:#373737;fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="hotkeys"
+         x="358.86145"
+         y="0"><tspan
+           x="584.332"
+           y="138.76736"
+           id="tspan25">Multiplex plaat
+</tspan><tspan
+           x="611.87369"
+           y="158.76736"
+           id="tspan26">MDF plaat
+</tspan><tspan
+           x="613.60544"
+           y="178.76736"
+           id="tspan27">Plexi plaat</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-17.938793,30.527301)"
+         id="text111"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect112);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="uitleg"><tspan
+           x="465.69727"
+           y="147.67166"
+           id="tspan28">888 x 888 cm
+</tspan><tspan
+           x="465.69727"
+           y="167.67166"
+           id="tspan29">888 x 888 cm
+</tspan><tspan
+           x="465.69727"
+           y="187.67166"
+           id="tspan30">888 x 888 cm</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-79.586636,53.252737)"
+         id="text2"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans Light Italic';text-align:end;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#373737;fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="hotkeys"
+         x="358.86145"
+         y="0"><tspan
+           x="428.24347"
+           y="138.76736"
+           id="tspan31">Converteer alles naar vectoren / lijnen
+</tspan><tspan
+           x="533.17056"
+           y="158.76736"
+           id="tspan32">Respecteer de kleuren
+</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-17.938793,50.848577)"
+         id="text3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="uitleg"><tspan
+           x="465.69727"
+           y="150.14008"
+           id="tspan34">Zie de &quot;<tspan
+   style="font-style:italic"
+   id="tspan33">Cheat Sheet Inkscape</tspan>&quot;</tspan></text>
+    </g>
+    <g
+       id="g21"
+       inkscape:label="Laden in Lightburn"
+       transform="translate(6.7970054,78.46986)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-12.049795,1.1862349)"
+         id="text13"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans Bold Italic';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect21);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"
+         x="2.006836e-06"
+         y="0"
+         inkscape:label="Werkblad grootte"><tspan
+           x="141.08008"
+           y="143.30621"
+           id="tspan35">Laden in Lightburn</tspan></text>
+      <g
+         id="g14"
+         inkscape:label="number 1"
+         transform="translate(0,-0.91947661)">
+        <circle
+           style="fill:#00b0ff;fill-opacity:1;stroke:#000000;stroke-width:0.369775;stroke-dasharray:none;stroke-opacity:1"
+           id="circle13"
+           cx="18.194134"
+           cy="36.893501"
+           r="5.0536871" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1"
+           x="18.366388"
+           y="39.460098"
+           id="text14"><tspan
+             sodipodi:role="line"
+             id="tspan14"
+             style="font-size:7.05556px;stroke:none;stroke-width:0.6"
+             x="18.366388"
+             y="39.460098">2</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-79.586636,15.583194)"
+         id="text16"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans Light Italic';text-align:end;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect22);display:inline;fill:#373737;fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="hotkeys"
+         x="358.86145"
+         y="0"><tspan
+           x="600.52994"
+           y="138.76736"
+           id="tspan36">File -&gt; Open
+</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-17.938793,13.179034)"
+         id="text17"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect23);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="uitleg"><tspan
+           x="465.69727"
+           y="150.14008"
+           id="tspan37">Lees je .SVG file in vanop USB
+</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-79.586636,27.133063)"
+         id="text18"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans Light Italic';text-align:end;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect24);display:inline;fill:#373737;fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="hotkeys"
+         x="358.86145"
+         y="0"><tspan
+           x="540.47266"
+           y="138.76736"
+           id="tspan38">Cuts / Layers venster</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-17.938793,24.728903)"
+         id="text19"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect25);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="uitleg"><tspan
+           x="465.69727"
+           y="147.67166"
+           id="tspan39">Voor elke lijnkleur die je in Inkscape hebt</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-79.586636,53.252737)"
+         id="text20"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans Light Italic';text-align:end;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect26);display:inline;fill:#373737;fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="hotkeys"
+         x="358.86145"
+         y="0"><tspan
+           x="428.24347"
+           y="138.76736"
+           id="tspan40">Converteer alles naar vectoren / lijnen
+</tspan><tspan
+           x="533.17056"
+           y="158.76736"
+           id="tspan41">Respecteer de kleuren
+</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-17.938793,50.848577)"
+         id="text21"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect27);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="uitleg"><tspan
+           x="465.69727"
+           y="150.14008"
+           id="tspan43">Zie de &quot;<tspan
+   style="font-style:italic"
+   id="tspan42">Cheat Sheet Inkscape</tspan>&quot;</tspan></text>
+    </g>
+  </g>
+</svg>
